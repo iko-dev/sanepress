@@ -4616,12 +4616,9 @@ div#date_logo .hr {
 
     /* About us */
     #about-responsive{
-        background-image: url(images/about-1-2.png) !important;
+    
     }
-    #about-responsive .container     {
-        height: 365px !important;
-        padding-top: 0px !important;
-    }
+  
     #about-cont-section{
         background-image: url(images/about-2.png) !important;
         background-position:bottom center !important;
