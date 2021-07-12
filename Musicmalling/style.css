@@ -4532,7 +4532,11 @@ div#date_logo .hr {
 	.home .title-wraper {
     margin: 0px 0px 0px !important;
 }
- 
+#date_logo .container     {
+    height: 241px!important;
+    padding-top: 0px !important;
+    background-image: none !important;
+}
     #home_content_box{
         background-image: url(images/mobile-second-bg.png) !important;
         background-color: #fff !important;
