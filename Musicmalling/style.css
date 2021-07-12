@@ -6139,12 +6139,12 @@ footer#socket {
 }
 span.charity, span.company, #socket .copyright, span.website__design, span.copyright a
  {
-    color: #333;
+    color: #333333;
 	font-size: 13px;
     text-transform: none !important;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     line-height: 25px;
-	    transition: 0.5s; 
+    transition: 0.5s; 
 }
 
 
