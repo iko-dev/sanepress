@@ -3723,7 +3723,9 @@ div#home_date-section-bottm .container {
 /* (1280x1024) SXGA Display */
 @media  screen and (max-width: 1024px) {
     /* insert styles here */
-
+    div#video-responsive-music .container {
+        height: 311px !important;
+    }
 div#contact-responsive .container {
     height: 395px !important;
 }	
@@ -4526,6 +4528,9 @@ div#date_logo .hr {
 
 /* Talets */
 @media only screen and (max-width:768px) {
+    div#video-responsive-music .container {
+        height: 233px !important;
+    }
     .eventText {
         margin-right: 0;
     }
@@ -7796,6 +7801,9 @@ div#donate-section-bottom .content, .sidebar {
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    div#video-responsive-music .container {
+        height: 129px !important;
+    }
     div#video-responsive .hr.hr-invisible {
         height: 135px !important;
     }
@@ -7883,6 +7891,9 @@ div#video-responsive .container {
 }
 
 @media screen and (max-width: 376px){
+    div#video-responsive-music .container {
+        height: 114px !important;
+    }
     #learning-responsive-4 .container {
         height: 113px !important;
     }
@@ -7941,6 +7952,9 @@ div#donate-section-bottom {
 
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
+        height: 97px !important;
+    }
+    div#video-responsive-music .container {
         height: 97px !important;
     }
     div#video-responsive .hr.hr-invisible {
