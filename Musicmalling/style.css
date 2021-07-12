@@ -9,7 +9,7 @@ Theme URI: www.kriesi.at/themes/enfold/
 
 /* =Imports styles from the parent theme
 -------------------------------------------------------------- */
-@import url('../enfold/style.css');
+@import url('http://musicatmalling.sanepress.com/wp-content/themes/enfold/style.css');
 @import url('https://fonts.googleapis.com/css?family=Signika:400,600,700,300');
 
 @font-face {
