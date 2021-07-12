@@ -1468,7 +1468,7 @@ span.current {
 .local-section-detail a{
     font-family: 'Signika', Arial;
     /*	color: #FCF8F2;*/
-    color: rgba(255,255,255, 0.5);
+    color: #333333;
     font-size:15px;
     font-weight: 300;
 }
