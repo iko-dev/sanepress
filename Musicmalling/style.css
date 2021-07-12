@@ -3650,6 +3650,9 @@ a.close:hover {
 div#festival-responsive section.av_textblock_section {
        padding-top: 80px;
 }
+div#artist-responsive-3 .container {
+    height: 236px !important;
+}
 #footer .container {
     max-width: 1040px !important;
 }	
@@ -3728,6 +3731,9 @@ div#home_date-section-bottm .container {
     div#video-responsive-music .container {
         height: 311px !important;
     }
+    div#artist-responsive-3 .container {
+        height: 168px !important;
+    } 
 div#contact-responsive .container {
     height: 395px !important;
 }	
@@ -4532,6 +4538,9 @@ div#date_logo .hr {
 @media only screen and (max-width:768px) {
     div#video-responsive-music .container {
         height: 233px !important;
+    }
+    div#artist-responsive-3 .container {
+        height: 126px !important;
     }
     .eventText {
         margin-right: 0;
@@ -7319,7 +7328,7 @@ div#festival-responsive section.av_textblock_section {
         padding-top: 0px;
     }
     .template-page.content.av-content-full.alpha.units {
-        padding: 40px 0px;
+        padding: 25px 0px;
         padding-left: 0px;
     }
 	div#video-responsive .hr.hr-invisible {
@@ -7806,6 +7815,9 @@ div#donate-section-bottom .content, .sidebar {
     div#contact-responsive .container {
         height: 165px !important;
     }
+    div#artist-responsive-3 .container {
+        height: 70px !important;
+    }
     #avia-menu-0 {
     right: -20px;
     top: 0px;
@@ -7890,6 +7902,9 @@ div#video-responsive .container {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    div#artist-responsive-3 .container {
+        height: 60px !important;
+    } 
     #learning-responsive-4 .container {
         height: 113px !important;
     }
@@ -7951,6 +7966,9 @@ div#donate-section-bottom {
     #learning-responsive-4 .container {
         height: 97px !important;
     }
+    div#artist-responsive-3 .container {
+        height: 52px !important;
+    } 
     div#video-responsive-music .container {
         height: 97px !important;
     }
