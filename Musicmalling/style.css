@@ -3653,6 +3653,9 @@ div#festival-responsive section.av_textblock_section {
 }	
 div#news-responsive .hr.hr-invisible {
     height: 265px !important;
+}
+div#video-responsive {
+    height: 438px !important;
 }	
 /*
 div#date_logo {
