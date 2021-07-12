@@ -280,7 +280,9 @@ div#donate-section,
 div#news-section {
     margin-top: -1px;
 }
-
+.page-about-musicmalling header#header {
+    background: #C6E383;
+}
 .error404 .container_wrap_first{padding-top: 100px}
 
 .error404 #main{
