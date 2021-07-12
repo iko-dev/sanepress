@@ -3743,9 +3743,7 @@ div#video-responsive .hr.hr-invisible {
 div#festival-responsive .hr.hr-invisible {
     height: 100px !important
 }
-div#video-responsive .container {
-    height: 311px !important;
-}
+
 div#learning-responsive-2 section#persons {
     padding-top: 0px;
     margin-top: -27px;
