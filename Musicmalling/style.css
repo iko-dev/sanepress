@@ -4618,7 +4618,7 @@ div#date_logo .hr {
     .page-board,
     .page-artistic-director,
     .page-gallery,
-    .page-about-musicmalling .header#header {
+    .page-about-musicmalling, .header#header {
         background: #96cde7 !important;
     }
     #about-cont-section{
