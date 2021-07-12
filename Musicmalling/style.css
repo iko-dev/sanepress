@@ -6147,6 +6147,9 @@ span.charity, span.company, #socket .copyright, span.website__design, span.copyr
     transition: 0.5s;
     font-weight: 300; 
 }
+span.website__design a {
+    color: #333;
+}
 
 
 .box .btn.btn-primary.btn-lg2 {
