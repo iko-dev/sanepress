@@ -4650,12 +4650,8 @@ div#date_logo .hr {
         height: 403px !important;
         padding-top:0px !important;
     }
-    #artist-responsive-3{
-        background-image: url(images/artist-3.png) !important;
-    }
-    #artist-responsive-3 .container     {
-        height: 161px !important;
-    }
+  
+  
     #learning-responsive-1{
         background-image: url(images/learning-1.png) !important;
     }
