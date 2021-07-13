@@ -3641,6 +3641,9 @@ div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, di
 {
    background-size: cover !important; 
 }
+div#home_date-section h3.h-title.white {
+    margin-top: 0;
+}
 /* (1440x900) WXGA+ Display */
 @media  screen and (max-width: 1440px) {
     #learning-responsive-2{padding-bottom:50px;}
@@ -3651,7 +3654,9 @@ div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, di
     {
        background-size: cover !important; 
     }
-
+    div#home_date-section h3.h-title.white {
+        margin-top: 0;
+    }
 div#festival-responsive section.av_textblock_section {
        padding-top: 80px;
 }
