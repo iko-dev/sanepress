@@ -7801,8 +7801,16 @@ div#donate-section-bottom .container {
     height: 40px !important;
     padding: 0 20px !important;
 }
-div#donate-section-bottom .container {
+div#donate-section-bottom {
     height: 37px !important;
+    background-size: cover !important;
+}
+div#home_date-section-bottm {
+    background-size: cover !important;
+    height: 45px !important;
+}
+div#home_date-section-top .container {
+    height: 72px !important;
     padding: 0 20px !important;
 }
 div#donate-section-bottom .content, .sidebar {
