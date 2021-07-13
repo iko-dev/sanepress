@@ -1088,7 +1088,7 @@ div#mapbtm .container {
     font-weight: 300;
     letter-spacing: 0px;
     line-height: 29px;
-     padding: 0px 80px 24px 0px;
+    padding: 0px 0px 25px 0px;
 }
 div#home_date-section .slick-next.slick-arrow img,
 div#home_date-section .slick-prev.slick-arrow img {
