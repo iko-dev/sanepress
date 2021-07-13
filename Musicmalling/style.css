@@ -7822,6 +7822,9 @@ span.copyright {
 .home-top-text {
     padding-left: 0;
 }
+.avia-button.avia-size-large {
+    padding: 18px 25px !important;
+}
 div#donate-section-bottom .content, .sidebar {
     padding-bottom: 0 !important;
 }
