@@ -13,14 +13,6 @@ Theme URI: www.kriesi.at/themes/enfold/
 @import url('https://fonts.googleapis.com/css?family=Signika:400,600,700,300');
 
 @font-face {
-    font-family: 'signikalight';
-    src: url('fonts/signika-light-webfont.woff2') format('woff2'),
-        url('fonts/signika-light-webfont.woff') format('woff'),
-        url('fonts/signika-light-webfont.ttf') format('ttf');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
     font-family: 'helveticaregular';
     src: url('fonts/helvetica-webfont.woff2') format('woff2'),
         url('fonts/helvetica-webfont.woff') format('woff');
