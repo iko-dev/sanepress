@@ -1139,6 +1139,7 @@ ul.supporter__footer li:first-child {
 .avia-button.avia-size-large {
     padding: 21px 35px !important;
     min-width: 139px;
+    margin-right: 30px !important;
 }
 #bank_Donation .avia-button.avia-size-large {
     padding: 16.2px 20px !important;
