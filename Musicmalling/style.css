@@ -3365,7 +3365,7 @@ ul#av-burger-menu-ul {
 }
 .description-detail-text{
     font-size: 15px;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     font-weight: 300;
     line-height:20px;
     display: inline-block;
@@ -6163,7 +6163,7 @@ span.charity, span.company, #socket .copyright, span.website__design, span.copyr
     color: #333333;
     font-size: 13px;
     text-transform: none !important;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     line-height: 16px;
     transition: 0.5s;
     font-weight: 300;
@@ -6289,7 +6289,7 @@ span.copyright a:hover {
 .datebox-content p{
     color: #fff;
     font-size: 16px;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     margin-bottom: 0px;
     margin-top: 10px;
 }
@@ -6313,7 +6313,7 @@ span.copyright a:hover {
     font-weight: 300;
     letter-spacing: 0;
     line-height: 29px;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     max-width: 450px;
     margin-top: 22px;
     margin: 0 auto;
@@ -6324,7 +6324,7 @@ span.copyright a:hover {
     font-weight: 300;
     letter-spacing: 0;
     line-height: 29px;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     max-width: 450px;
     margin-top: 22px;
     margin: 0 auto;
