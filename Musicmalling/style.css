@@ -7961,6 +7961,9 @@ div#video-responsive .container {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    .curated-block {
+        padding: 0px 0px !important;
+    }
     div#artist-responsive-3 .container {
         height: 60px !important;
     } 
@@ -8024,6 +8027,9 @@ div#donate-section-bottom {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    .curated-block {
+        padding: 0px 0px !important;
     }
     div#artist-responsive-3 .container {
         height: 52px !important;
