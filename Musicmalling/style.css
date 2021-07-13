@@ -7813,6 +7813,15 @@ div#home_date-section-top .container {
     height: 72px !important;
     padding: 0 20px !important;
 }
+span.copyright {
+    padding-right: 10px !important;
+}
+.home-top-text p {
+    padding: 0px 0px 24px 0px;
+}
+.home-top-text {
+    padding-left: 0;
+}
 div#donate-section-bottom .content, .sidebar {
     padding-bottom: 0 !important;
 }
