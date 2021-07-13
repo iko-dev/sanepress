@@ -142,6 +142,9 @@ span.arrow:before {
     -webkit-transition: opacity 0.6s ease-in;
     transition: opacity 0.6s ease-in;
 }
+.home-top-text {
+    padding-left: 50px;
+}
 #scroll-top-link.avia_pop_class {
     opacity: 0.7;
     visibility: hidden;
@@ -1087,6 +1090,7 @@ div#mapbtm .container {
     font-size: 26px;
     text-transform: uppercase;
 }
+
 .home-top-text p {
     font-size: 20px;
     font-weight: 300;
