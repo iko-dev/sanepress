@@ -4589,11 +4589,11 @@ div#date_logo .hr {
         padding-top: 0px !important;
     }
     .curated-block .curated-content a {
-            padding: 10px 20px;
+        padding: 10px 20px;
         font-size: 16px;
         bottom: 0%;
-        left: 19px;
-        margin-bottom: -15px;
+        left: 45px;
+        margin-bottom: 45px;
     }
     .curated-content p {
         font-size: 16px !important;
@@ -7356,7 +7356,9 @@ div#festival-responsive section.av_textblock_section {
     .slick-next {
         right: -16px;
     }
-
+    div#home_date-section .slick-next {
+        right: -5px;
+    }
     .slick-prev,.slick-next {
         top: 50%;
     }
@@ -7807,7 +7809,7 @@ div#donate-section-bottom {
 }
 div#home_date-section-bottm {
     background-size: cover !important;
-    height: 45px !important;
+    height: 25px !important;
 }
 div#home_date-section-top .container {
     height: 72px !important;
