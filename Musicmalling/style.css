@@ -3642,7 +3642,10 @@ a.close:hover {
     text-align: left;
     width: 70%;
 }
-
+div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, div#donate-section-top, div#donate-section-bottom
+{
+   background-size: cover !important; 
+}
 /* (1440x900) WXGA+ Display */
 @media  screen and (max-width: 1440px) {
     #learning-responsive-2{padding-bottom:50px;}
