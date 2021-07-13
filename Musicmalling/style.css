@@ -6457,10 +6457,6 @@ section.av_textblock_section {
     line-height: 23px;
     font-family: 'Signika', Arial;
 }
-#curated_slider {
-    background-color: rgba(58, 127, 193, 0.05) !important;
-    background-image: none !important;
-}
 #curated_slider .title-wraper h3.h-title {
     color: #3A7FC1;
     font-size: 26px;
