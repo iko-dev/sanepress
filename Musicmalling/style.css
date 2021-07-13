@@ -3652,6 +3652,9 @@ a.close:hover {
 div#festival-responsive section.av_textblock_section {
        padding-top: 80px;
 }
+div#home_date-section-top .container {
+    height: 141px;
+}
 div#artist-responsive-3 .container {
     height: 236px !important;
 }
