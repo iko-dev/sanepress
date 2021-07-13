@@ -7961,6 +7961,9 @@ div#video-responsive .container {
 .page-news div#news-responsive .hr.hr-invisible {
     height: 140px !important;
 }
+div#video-section {
+    background-size: contain;
+}
 }
 
 @media screen and (max-width: 376px){
@@ -8025,6 +8028,9 @@ div#donate-section-bottom {
 }
 .home .template-page.content.av-content-full.alpha.units {
     padding: 17px 0px !important;
+}
+div#video-section {
+    background-size: contain;
 }	
 	
 }
@@ -8033,6 +8039,9 @@ div#donate-section-bottom {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    div#video-section {
+        background-size: contain;
     }
     div#home_date-section .slick-next {
         right: 0px !important;
