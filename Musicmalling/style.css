@@ -4560,6 +4560,10 @@ div#date_logo .hr {
     div#video-responsive-music .container {
         height: 233px !important;
     }
+    .curated-block {
+        display: inline-block;
+        padding: 0px 15px;
+    }
     div#artist-responsive-3 .container {
         height: 126px !important;
     }
@@ -4568,6 +4572,12 @@ div#date_logo .hr {
     }
     .advertiser-section-container {
         margin-left: 0;
+    }
+    div#curated-section .slick-prev {
+        left: 0px;
+    }
+    div#curated-section .slick-next {
+        right: -5px;
     }
 	.home .title-wraper {
     margin: 0px 0px 0px !important;
