@@ -8036,7 +8036,7 @@ div#donate-section-bottom {
     div#home_date-section .slick-next {
         right: 0px !important;
     }
-    .slick-prev {
+    div#home_date-section  .slick-prev {
         left: 0px !important;
         z-index: 9999 !important;
     }
