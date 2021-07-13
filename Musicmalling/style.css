@@ -8033,6 +8033,13 @@ div#donate-section-bottom {
     #learning-responsive-4 .container {
         height: 97px !important;
     }
+    div#home_date-section .slick-next {
+        right: 0px !important;
+    }
+    .slick-prev {
+        left: 0px !important;
+        z-index: 9999 !important;
+    }
     .curated-block {
         padding: 0px 0px !important;
     }
