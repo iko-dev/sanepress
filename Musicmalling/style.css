@@ -3667,13 +3667,9 @@ div#news-responsive .hr.hr-invisible {
 div#video-responsive-music .container {
     height: 438px !important;
 }	
-/*
-div#date_logo {
-    height: 577px !important;
-}	
-*/
+
 div#date_logo .hr {
-    height: 170px !important;
+    height: 200px !important;
 }		
 
 div#home_date-section {
