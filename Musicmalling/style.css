@@ -3775,8 +3775,9 @@ div#news-section-top .container {
     height: 176px !important;
 }
 div#donate-section-top .container {
-    height: 0px !important;
-    min-height: 0px !important;
+    height: 34px !important;
+    width: 100%;
+    background-size: cover !important;
 }
 div#donate-section-bottom .container {
     height: 50px !important;
@@ -3785,11 +3786,10 @@ div#donate-section-bottom .container {
     min-height: 34px;
 }
 div#home_date-section-bottm .container {
-    height: 58px !important;
+    height: 60px !important;
 }
 div#home_date-section-top .container {
-    height: 100px !important;
-    margin-top: -2px;
+    height: 102px !important;
 }
 .slick-next {
     right: -15px;
@@ -3798,8 +3798,9 @@ div#home_date-section-top .container {
     left: -24px;
 }	
 div#date_logo .hr {
-    height: 70px !important;
-}	
+    height: 100px !important;
+}
+
 }
 
 @media (min-width: 32em) {
