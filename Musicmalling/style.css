@@ -6116,6 +6116,7 @@ ul#menu-foooter-menu-one {
 ul#menu-foooter-menu-one li {
     display: inline-block;
     padding: 0px 10px;
+    transition: 0.5s !important;
 }
 ul#menu-foooter-menu-one li a {
     font-size: 18px;
