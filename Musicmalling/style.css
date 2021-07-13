@@ -3644,6 +3644,9 @@ div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, di
 div#home_date-section h3.h-title.white {
     margin-top: 0;
 }
+div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
+    margin-bottom: 0 !important;
+}
 /* (1440x900) WXGA+ Display */
 @media  screen and (max-width: 1440px) {
     #learning-responsive-2{padding-bottom:50px;}
