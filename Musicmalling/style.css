@@ -3649,6 +3649,11 @@ a.close:hover {
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
     /* insert styles here */
+    div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, div#donate-section-top, div#donate-section-bottom
+    {
+       background-size: cover !important; 
+    }
+
 div#festival-responsive section.av_textblock_section {
        padding-top: 80px;
 }
