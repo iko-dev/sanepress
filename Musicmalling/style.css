@@ -9,7 +9,7 @@ Theme URI: www.kriesi.at/themes/enfold/
 
 /* =Imports styles from the parent theme
 -------------------------------------------------------------- */
-@import url('../enfold/style.css');
+@import url('http://musicatmalling.sanepress.com/wp-content/themes/enfold/style.css');
 @import url('https://fonts.googleapis.com/css?family=Signika:400,600,700,300');
 
 @font-face {
@@ -902,9 +902,7 @@ div#mapbtm .container {
     background-position-y: -3px;
     height:238px;
 }
-html {
-    margin-top: 30px !important;
-}
+
 .html_header_top.html_header_sticky.html_bottom_nav_header #main {
     padding-top: 92px;
 }
@@ -1106,7 +1104,7 @@ ul#menu-footer-bottom {
 }
 ul#menu-footer-bottom li {
     display: inline-block;
-    padding: 0px 15px;
+    padding: 0px 6px;
 }
 ul#menu-footer-bottom li a {
     font-size: 13px;
@@ -1470,7 +1468,7 @@ span.current {
 .local-section-detail a{
     font-family: 'Signika', Arial;
     /*	color: #FCF8F2;*/
-    color: rgba(255,255,255, 0.5);
+    color: #333333;
     font-size:15px;
     font-weight: 300;
 }
@@ -4625,9 +4623,11 @@ div#date_logo .hr {
 
     /* About us */
  
-    }
-    .page-about-musicmalling header#header {
-        background: #C6E383 !important;
+    .page-board,
+    .page-artistic-director,
+    .page-gallery,
+    .page-about-musicmalling .header#header {
+        background: #96cde7 !important;
     }
     #about-cont-section{
  
@@ -6150,12 +6150,16 @@ footer#socket {
 }
 span.charity, span.company, #socket .copyright, span.website__design, span.copyright a
  {
-    color: #333;
+    color: #333333;
 	font-size: 13px;
     text-transform: none !important;
-    font-family: 'signikalight';
+    font-family: 'Signika', Arial;
     line-height: 25px;
-	    transition: 0.5s; 
+    transition: 0.5s;
+    font-weight: 300; 
+}
+span.website__design a {
+    color: #333 !important;
 }
 
 
