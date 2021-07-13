@@ -3716,15 +3716,16 @@ div#donate-section .container {
 div#home_date-section-bottm .container {
     height: 85px !important;
 }
-/* div#news-section-top .container {
+div#news-section-top .container {
     height: 248px !important;
-} */
-/* div#donate-section-top .container {
-    height: 49px !important;
-} */
-/* div#donate-section-bottom .container {
+}
+div#donate-section-top .container {
+    height: 48px !important;
+}
+div#donate-section-bottom .container {
     height: 70px !important;
-}	 */
+}
+
 	
 }
 .avia-section {
