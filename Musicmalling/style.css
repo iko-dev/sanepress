@@ -1113,10 +1113,10 @@ ul#menu-footer-bottom li {
 ul#menu-footer-bottom li a {
     font-size: 13px;
     text-transform: none !important;
-	  font-family: 'signikalight';
-	    padding: 0;
-	    font-weight: 900;
-	    transition: 0.5s;
+    font-family: 'Signika', Arial;
+    padding: 0;
+    font-weight: 400;
+    transition: 0.5s;
 }
 div#custom_html-2 h3 {
     color: #333;
@@ -6152,15 +6152,14 @@ div#nav_menu-3 {
 footer#socket {
     background-color: #fff !important;
 }
-span.charity, span.company, #socket .copyright, span.website__design, span.copyright a
- {
+span.charity, span.company, #socket .copyright, span.website__design, span.copyright a {
     color: #333333;
-	font-size: 13px;
+    font-size: 13px;
     text-transform: none !important;
-    font-family: 'Signika', Arial;
+    font-family: 'signikalight';
     line-height: 25px;
     transition: 0.5s;
-    font-weight: 300; 
+    font-weight: 300;
 }
 span.website__design a {
     color: #333 !important;
