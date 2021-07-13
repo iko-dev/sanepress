@@ -3727,6 +3727,13 @@ div#donate-section-bottom .container {
 .avia-section {
     min-height: 40px;
 }
+
+@media screen and (max-width: 1300px){
+div#news-section-top .container {
+    height: 218px !important;
+}
+}
+
 /* (1280x1024) SXGA Display */
 @media  screen and (max-width: 1024px) {
     /* insert styles here */
