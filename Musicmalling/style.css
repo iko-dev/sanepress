@@ -3774,7 +3774,7 @@ div#donate-section, div#news-section {
 div#news-section-top .container {
     height: 176px !important;
 }
-div#donate-section-top .container {
+div#donate-section-top {
     height: 34px !important;
     width: 100%;
     background-size: cover !important;
