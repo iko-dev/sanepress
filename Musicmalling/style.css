@@ -291,7 +291,13 @@ div#donate-section,
 div#news-section {
     margin-top: -1px;
 }
-.page-about-musicmalling header#header {
+
+.page-about-musicmalling header#header,
+.page-season-ticket header#header,       
+.page-artistic-director  header#header,       
+.page-gallery header#header,        
+.page-board header#header
+{
     background: #96CDE7;
 }
 .error404 .container_wrap_first{padding-top: 100px}
