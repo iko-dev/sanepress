@@ -4008,7 +4008,7 @@ div#date_logo .hr {
         outline: none;
     }
     /*    .current-menu-ancestor.current-menu-parent.active-parent-item a span,*/
-    .current-menu-item a span, 
+    .current-menu-item li > a span, 
     span.avia-menu-text.act-menu,
     .av-active-burger-items a:hover {
         opacity: 0.5;
