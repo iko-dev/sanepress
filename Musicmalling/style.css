@@ -3681,6 +3681,13 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
     /* insert styles here */
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first,
+    .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first,
+    .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 180px !important;
+    }
+
+
     div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, div#donate-section-top, div#donate-section-bottom
     {
        background-size: cover !important; 
