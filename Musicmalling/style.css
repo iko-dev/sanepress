@@ -76,12 +76,12 @@ div#date_logo {
 #donate-new{
     height: 900px !important;
 }
-#donate-section-top
-{
+#donate-section-top{
     height: 65px !important;
 }
 #donate-section-bottom,
-#river-bottom
+#river-bottom,
+#river-top
 {
    height: 90px !important; 
 }
