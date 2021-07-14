@@ -67,15 +67,18 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
 
 /* ************************for background images ********************* */
 @media (min-width: 1600px) and (max-width: 2560px)  {
-   div#news-section-top {
+div#news-section-top {
     height: 290px !important;
 }
-
 div#date_logo {
     height: 800px !important;
 }
 #donate-new{
     height: 900px !important;
+}
+.river-bottom
+{
+   height: 90px !important; 
 }
 }
 /* ************************ background images End ********************* */
