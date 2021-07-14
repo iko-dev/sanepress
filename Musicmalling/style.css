@@ -3908,6 +3908,9 @@ div#date_logo .hr {
         width: auto;
         margin: 10px auto;
     }
+    .footer-widget-1 {
+        padding: 0px 0px !important;
+    }
     #twitter .flex_column{
         width: 50% !important;
     }
