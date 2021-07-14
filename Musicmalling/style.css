@@ -64,7 +64,10 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
     opacity: 0.50;
 	transition: 0.5s;
 }
-
+.bg-2
+{
+    background-size: cover !important;
+}
 .avia-section.av-minimum-height .container {
     opacity: 1;
 }
