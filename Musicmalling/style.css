@@ -191,6 +191,9 @@ h1,h2,h3,h4,h5,h6{
     padding: 5px 28px;
 
 }
+.current-menu-item .avia-menu-text {
+    opacity: 50%;
+}
 .av-burger-overlay ul li ul.sub-menu {
     padding-left: 50px;
 }
