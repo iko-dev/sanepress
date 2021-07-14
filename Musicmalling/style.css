@@ -3704,7 +3704,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 180px !important;
     }
-
+    .page-current-festivals .hr.hr-invisible.avia-builder-el-1.el_before_av_textblock.avia-builder-el-first {
+        height: 162px !important;
+    }
 
     div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, div#donate-section-top, div#donate-section-bottom
     {
@@ -3818,7 +3820,7 @@ div#video-responsive .hr.hr-invisible {
     height: 388px !important;
 } */
 div#festival-responsive .hr.hr-invisible {
-    height: 100px !important
+    height: 120px !important
 }
 
 div#learning-responsive-2 section#persons {
@@ -8003,6 +8005,9 @@ div#donate-section-bottom .content, .sidebar {
         height: 165px !important;
     }
     div#artist-responsive-3 .container {
+        height: 70px !important;
+    }
+    div#festival-responsive .hr.hr-invisible {
         height: 70px !important;
     }
     #avia-menu-0 {
