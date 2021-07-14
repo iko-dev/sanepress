@@ -64,29 +64,6 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
     opacity: 0.50;
 	transition: 0.5s;
 }
-
-/* ************************for background images ********************* */
-@media (min-width: 1600px) and (max-width: 2560px)  {
-div#news-section-top {
-    height: 290px !important;
-}
-div#date_logo {
-    height: 800px !important;
-}
-#donate-new{
-    height: 900px !important;
-}
-#donate-section-top
-{
-    height: 65px !important;
-}
-#donate-section-bottom,
-#river-bottom
-{
-   height: 90px !important; 
-}
-}
-/* ************************ background images End ********************* */
 .bg-2
 {
     background-size: cover !important;
@@ -330,7 +307,7 @@ div#news-section {
 .page-gallery header#header,        
 .page-board header#header
 {
-    background: #96CDE7 !important;
+    background: #96CDE7;
 }
 .error404 .container_wrap_first{padding-top: 100px}
 
@@ -1486,7 +1463,7 @@ span.current {
 }
 .support,.home-section{
     margin-left: 0px !important;
-    background: url(https://musicatmalling.com/wp-content/themes/musicmalling/images/support.png) no-repeat 25px 0px;
+    background: url(images/support.png) no-repeat 25px 0px;
     padding-left: 105px;
     background-position-x: 5px;
     height: 100px;
@@ -1514,7 +1491,7 @@ span.current {
 }
 
 .partner, .learning{
-    background: url(https://musicatmalling.com/wp-content/themes/musicmalling/images/support.png) no-repeat 0px 25px;
+    background: url(images/localplaces.png) no-repeat 0px 25px;
     padding-left: 106px;
     background-position-x: 0px;
     background-position-y: 0px;
@@ -3897,21 +3874,6 @@ div#date_logo .hr {
 
 }
 
-
-
-/* CSS for Avia Hide */
-@media only screen and (min-width: 990px){
-
-    /* .page-contact .av-medium-hide{display:none;} */
-
-}
-@media only screen and (min-width: 769px) and (max-width: 989px) {
-    /* .page-contact .av-medium-hide{display:none;} */
-
-    .home-top-text {
-        padding-left: 0px !important;
-    }
-}
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 989px) {
     /* .page-contact .av-medium-hide{display:none;} */
@@ -3919,6 +3881,9 @@ div#date_logo .hr {
 	.html_header_top.html_logo_center .logo{
 		display: none;
 	}
+    .home-top-text {
+        padding-left: 0px !important;
+    }
   
 }
 
@@ -4024,7 +3989,7 @@ div#date_logo .hr {
         outline: none;
     }
     /*    .current-menu-ancestor.current-menu-parent.active-parent-item a span,*/
-    .current-menu-item li > a span, 
+    .current-menu-item a span, 
     span.avia-menu-text.act-menu,
     .av-active-burger-items a:hover {
         opacity: 0.5;
@@ -7788,10 +7753,6 @@ body.page-news div#news-responsive-1 {
 /* Donate page styling */
 .page-donate #header {
     background: #96CDE7;
-}
-.page-donate h3{
-	line-height:29px;
-	text-transform:uppercase;
 }
 .page-donate .paypal-content{
 	border-right:1px solid #D2D1C9;
