@@ -203,6 +203,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 5px 28px;
 
 }
+.page-friend .avia_mega_div,
 .page-season-ticket .avia_mega_div,
 .page-about-musicmalling .avia_mega_div,
 .page-board .avia_mega_div,
@@ -298,7 +299,7 @@ div#donate-section,
 div#news-section {
     margin-top: -1px;
 }
-
+.page-friend header#header,
 .page-about-musicmalling header#header,
 .page-season-ticket header#header,       
 .page-artistic-director  header#header,       
