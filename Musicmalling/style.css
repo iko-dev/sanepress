@@ -64,6 +64,13 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
     opacity: 0.50;
 	transition: 0.5s;
 }
+
+/* ************************for background images ********************* */
+
+div#news-section-top {
+    height: 290px;
+}
+/* ************************ background images End ********************* */
 .bg-2
 {
     background-size: cover !important;
