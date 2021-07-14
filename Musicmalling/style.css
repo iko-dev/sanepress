@@ -314,7 +314,7 @@ div#news-section {
 .page-gallery header#header,        
 .page-board header#header
 {
-    background: #96CDE7;
+    background: #96CDE7 !important;
 }
 .error404 .container_wrap_first{padding-top: 100px}
 
