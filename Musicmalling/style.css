@@ -3851,7 +3851,13 @@ div#date_logo .hr {
     /* .page-contact .av-medium-hide{display:none;} */
 
 }
+@media only screen and (min-width: 878px) and (max-width: 989px) {
+    /* .page-contact .av-medium-hide{display:none;} */
 
+    .home-top-text {
+        padding-left: 0px !important;
+    }
+}
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 989px) {
     /* .page-contact .av-medium-hide{display:none;} */
