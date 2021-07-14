@@ -68,7 +68,7 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
 /* ************************for background images ********************* */
 
 div#news-section-top {
-    height: 290px;
+    height: 290px !important;
 }
 /* ************************ background images End ********************* */
 .bg-2
