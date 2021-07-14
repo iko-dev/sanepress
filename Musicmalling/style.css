@@ -3356,7 +3356,7 @@ p.a3e{
     background: #F7A992;
 }
 ul#av-burger-menu-ul {
-    padding: 94px 0px !important;
+    padding: 50px 0px !important;
 }
 #about-last-section .template-page.content,
 .page-all-saints-church-tudeley .avia-slide-wrap,
@@ -4666,7 +4666,7 @@ margin: 50px 0px 0px;
     }
   .menu_donation {
 
-padding: 10px 25px;
+    padding: 10px 25px 25px;
 display: flex;
 
 }
@@ -7349,13 +7349,7 @@ div#news-section {
 div#news-section-top .container {
        height: 65px !important;
 }	
-/* .responsive #top #wrap_all .main_menu {
-    top: -40px;
-	} */
-.home #avia-menu-0 {
-    right: -20px;
-    top: 70px;
-}
+
 .social_link {
     display: none;
 }	
