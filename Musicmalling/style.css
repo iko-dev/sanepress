@@ -3878,7 +3878,11 @@ div#date_logo .hr {
 /* Mobile */
 @media only screen and (max-width: 767px){
 
-
+    .home .flex_column.av_one_full.flex_column_div.first.avia-builder-el-28.avia-builder-el-no-sibling {
+        margin: 0;
+       margin-bottom: 0px !important;
+        width: 100%;
+    }
     #buy_season_modal .modal-content {
         width: auto;
         margin: 10px auto;
