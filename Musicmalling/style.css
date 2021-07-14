@@ -7141,7 +7141,7 @@ div#home-section p {
 }
 
 select.previousYear {
-    width: 200px;
+    width: 200px !important;
 }
 .av-main-nav > li:nth-last-child(2) a .avia-menu-fx {
     display: none;
