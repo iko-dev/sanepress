@@ -6495,6 +6495,7 @@ span.copyright a:hover {
     max-width: 200px;
     margin-right: 20px;
 }
+select.previousYear,
 .videos-container form.form-inline .form-group select {
     background-color: transparent !important;
     border: 1px solid rgba(0, 0, 0, 0.2) !important;
@@ -7147,7 +7148,7 @@ select.previousYear,
 #top select, #top .avia_ajax_form .select, #top .entry-content-wrapper select {
     -webkit-appearance: none;
     border-radius: 0px;
-    background-image: url("images/select-download.png") !important;
+    background-image: url("http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/select-download.png") !important;
     background-position: center right;
     background-repeat: no-repeat;
     border-radius: 2px;
