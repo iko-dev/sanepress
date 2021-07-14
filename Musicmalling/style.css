@@ -7259,9 +7259,9 @@ div#news-section {
 div#news-section-top .container {
        height: 65px !important;
 }	
-.responsive #top #wrap_all .main_menu {
+/* .responsive #top #wrap_all .main_menu {
     top: -40px;
-	}
+	} */
 .home #avia-menu-0 {
     right: -20px;
     top: 70px;
