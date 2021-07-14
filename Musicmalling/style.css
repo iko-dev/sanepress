@@ -7773,9 +7773,7 @@ div#shop-page .hr.hr-invisible {
         height: 300px !important;
     }
 
-	div#donate-new {
-    height: 450px;
-}
+
 	.page-donate div#donate-new .avia_textblock.av_inherit_color {
     top: 100px;
 }
@@ -7938,9 +7936,7 @@ div#video-section .slick-next {
 body.page-news div#news-responsive {
     height: 500px !important;
 }
-.page-donate div#donate-new {
-    height: 368px;
-}
+
 	.page-donate div#donate-new .avia_textblock.av_inherit_color {
     top: 30px;
 }
@@ -7995,9 +7991,7 @@ div#video-section {
         height: 148px !important;
     }
 
-.page-donate div#donate-new {
-    height: 406px;
-}
+
 .page-current-festivals header#header {
     background-color: #7dbdaf !important;
 }	
@@ -8080,9 +8074,7 @@ body.page-news div#news-responsive {
  .page-shop #header {
     background-color: #95cce6 !important;
 }	
-.page-donate div#donate-new {
-    height: 425px;
-}
+
 	.page-donate div#donate-new .avia_textblock.av_inherit_color {
     top: 0px;
 }
