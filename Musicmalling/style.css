@@ -68,6 +68,13 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
 {
     background-size: cover !important;
 }
+.page-donate2 #header {
+    background: #96CDE7;
+	height:100px;
+}
+#fitvid0{
+    width:100% !important;
+}
 .avia-section.av-minimum-height .container {
     opacity: 1;
 }
@@ -3904,7 +3911,11 @@ div#date_logo .hr {
 
 }
 
-
+@media only screen and (max-width: 992px){
+    #donate-section button{
+     margin-left:0;
+    }
+}
 /* Mobile */
 @media only screen and (max-width: 767px){
 
@@ -4603,6 +4614,75 @@ div#date_logo .hr {
     #mobile-advanced .social_link_mobile ul a{
         padding: 0px;
     }
+    .responsive #top .logomain{
+        margin-bottom: 60px;
+    }
+    ul.cnss-social-icon {
+padding-left: 25px;
+}
+.large-box .btn.btn-primary.btn-lg{
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+padding: 0 !important;
+float: none !important;
+}
+.large-box .play-button {
+min-height: 41px !important;
+width: 41px !important;
+top: 0px;
+}
+.gal-item {
+overflow: hidden;
+padding: 0px 0px 0px;
+}
+.large-box .video_image{
+position: relative;
+}
+
+
+.cnss-social-icon li {
+float: left;
+}
+#top #av-burger-menu-ul{
+height:auto;
+}
+#top #av-burger-menu-ul {
+
+padding-bottom: 0px !important;
+}
+
+    .home .h-title {
+padding-bottom: 0;
+}
+    .home .title-wraper {
+margin: 50px 0px 0px;
+}
+
+    #top #av-burger-menu-ul{
+        display:block;
+    }
+  .menu_donation {
+
+padding: 10px 25px;
+display: flex;
+
+}
+.home #avia-menu-0 {
+right: -20px;
+top: 35px;
+}
+
+.home .template-page.content.av-content-full.alpha.units {
+padding: 20px 0px;
+}
+
+.menu_donation a {
+background-color: rgba(0, 0, 0, 0.2) !important;
+transition: 0.5s;
+border-radius: 30px;
+} 
 
 }
 
