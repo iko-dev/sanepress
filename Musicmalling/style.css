@@ -64,6 +64,27 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover {
     opacity: 0.50;
 	transition: 0.5s;
 }
+<<<<<<< HEAD
+=======
+
+/* ************************for background images ********************* */
+@media (min-width: 1600px) and (max-width: 2560px)  {
+div#news-section-top {
+    height: 290px !important;
+}
+div#date_logo {
+    height: 800px !important;
+}
+#donate-new{
+    height: 900px !important;
+}
+#river-bottom
+{
+   height: 90px !important; 
+}
+}
+/* ************************ background images End ********************* */
+>>>>>>> parent of fc47140 (Update style.css)
 .bg-2
 {
     background-size: cover !important;
