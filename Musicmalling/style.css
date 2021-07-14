@@ -7789,10 +7789,7 @@ body.page-news div#news-responsive-1 {
 .page-donate #header {
     background: #96CDE7;
 }
-.page-donate h3{
-	line-height:29px;
-	text-transform:uppercase;
-}
+
 .page-donate .paypal-content{
 	border-right:1px solid #D2D1C9;
 	padding:22px 107px 48px 0;
