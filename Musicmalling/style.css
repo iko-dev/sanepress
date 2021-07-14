@@ -7785,6 +7785,10 @@ div#shop-page .hr.hr-invisible {
 	.page-donate .bank-transfer-content {
     padding: 22px 0 55px 82px;
 }
+.donate-button{
+    text-align: center;
+}
+
 div#video-responsive .container {
     height: 233px !important;
 }
