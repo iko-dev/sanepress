@@ -4638,9 +4638,9 @@ div#date_logo .hr {
     #mobile-advanced .social_link_mobile ul a{
         padding: 0px;
     }
-    .responsive #top .logomain{
+    /* .responsive #top .logomain{
         margin-bottom: 60px;
-    }
+    } */
     ul.cnss-social-icon {
 padding-left: 25px;
 }
@@ -5677,7 +5677,7 @@ border-radius: 30px;
         width:100%;
     }
     .template-page .hr{
-        height: 8px !important
+        height: 50px !important
     }
     .tickets-Price p{
         margin-top: 8px !important;
