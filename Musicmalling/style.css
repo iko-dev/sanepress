@@ -250,6 +250,9 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
 
 }
+div#about-responsive .container {
+    height: 383px !important;
+}
 div#donate-section .template-page.content.av-content-full.alpha.units {
     padding: 0px;
 }
