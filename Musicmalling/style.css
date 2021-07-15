@@ -2485,7 +2485,7 @@ ul#menu-foooter-menu-one li:hover {
 }
 .single-event #header .av-hamburger-inner,.single-event .av-burger-overlay .av-hamburger-inner,
 .single-post #header .av-hamburger-inner,.single-post .av-burger-overlay .av-hamburger-inner {
-    background: #333 !important;
+    background: #fff !important;
 }
 .av-hamburger.av-hamburger--spin.av-js-hamburger.av-inserted-main-menu.is-active {
     background: transparent;
