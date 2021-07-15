@@ -8224,6 +8224,9 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    .page-venues section {
+        padding-left: 0;
+    }
     div#about-responsive {
         background-size: cover !important;
     }
@@ -8304,6 +8307,9 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    .page-venues section {
+        padding-left: 0;
     }
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
