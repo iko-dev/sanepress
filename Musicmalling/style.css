@@ -8030,14 +8030,14 @@ div#home_date-section .slick-next.slick-arrow {
 div#home_date-section .slick-prev.slick-arrow {
     left: 0px !important;
 }
-div#home_listen-section .slick-next,
+/* div#home_listen-section .slick-next,
 div#home_listen-section .slick-prev,
 .slick-prev, .slick-next {
 
     width: 25px !important;
     height: 25px !important;
 
-}
+} */
 }
 @media screen and (max-width: 426px){
     #learning-responsive-4 .container {
