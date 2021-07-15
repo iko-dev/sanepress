@@ -7943,6 +7943,9 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .page-artists .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 70px !important;
+    }
     .page-venues section {
         padding-left: 100px;
     }
