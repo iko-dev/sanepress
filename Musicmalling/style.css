@@ -3841,6 +3841,9 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 150px !important;
+    }
     .page-venues section {
         padding-left: 100px;
     }
@@ -7944,6 +7947,9 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 80px !important;
+    }
     .page-artists .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
         height: 70px !important;
     }
@@ -7952,6 +7958,9 @@ body.page-news div#news-responsive {
     }
     div#about-responsive .container {
         height: 155px !important;
+    }
+    .page-partnerships .container main {
+        padding-bottom: 0 !important;
     }
     .av-hamburger-inner, .av-hamburger-inner::before, .av-hamburger-inner::after {
         width: 40px !important;
@@ -8109,6 +8118,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 0px !important;
+    }
     div#about-responsive .container {
         height: 86px !important;
     }
@@ -8126,6 +8138,9 @@ div#home_listen-section .slick-prev,
         width: 20px !important;
         height: 20px !important;
 
+    }
+    .page-partnerships .container main {
+        padding-top: 6px !important;
     }
     div#video-responsive-music .container {
         height: 129px !important;
@@ -8231,6 +8246,9 @@ div#video-section {
     .page-venues section {
         padding-left: 0;
     }
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 0px !important;
+    }
     div#about-responsive {
         background-size: cover !important;
     }
@@ -8314,6 +8332,10 @@ div#video-section {
     }
     .page-venues section {
         padding-left: 0;
+    }
+
+    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 0px !important;
     }
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
