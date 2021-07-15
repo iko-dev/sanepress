@@ -1233,7 +1233,7 @@ span.company__charity {
     padding-top: 10px;
 }
 .footer_news {
-    background: url(images/newsisngle_2.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/newsisngle_2.png);
     height: 316px;
     border: 0px;
     background-repeat: no-repeat;
@@ -7963,6 +7963,10 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .gal-item {
+        overflow: hidden;
+        padding: 0px 0px 0px;
+    }
     .videos-container .single-video .video-title h3{margin-top:15px;}
 .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
     height: 100px !important;
