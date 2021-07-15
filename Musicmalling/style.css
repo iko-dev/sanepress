@@ -3960,6 +3960,9 @@ div#date_logo .hr {
     .home-top-text {
         padding-left: 0px !important;
     }
+    .social_link {
+        display: none;
+    }
 }
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 989px) {
@@ -3968,6 +3971,9 @@ div#date_logo .hr {
 	.html_header_top.html_logo_center .logo{
 		display: none;
 	}
+    .social_link {
+        display: none;
+    }
   
 }
 
