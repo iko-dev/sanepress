@@ -3969,6 +3969,9 @@ div#date_logo .hr {
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
     }
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: 0px !important;
+    }
     #menu-footer-bottom{text-align:left;}
     #menu-footer-bottom li{
         padding-left: 0px !important;
@@ -8084,6 +8087,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: 0px !important;
+    }
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 140px !important;
     }
@@ -8194,6 +8200,9 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: 0px !important;
+    }
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 110px !important;
     }
@@ -8265,6 +8274,9 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: 0px !important;
     }
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 100px !important;
