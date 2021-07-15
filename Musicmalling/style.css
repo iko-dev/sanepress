@@ -8011,14 +8011,14 @@ div#curated-section .slick-next {
 }
 div#home_listen-section .slick-next
 {
-    right: -11px !important;
+    right: -5px !important;
 }
 .slick-next {
     right: -25px !important;
 }
 div#home_listen-section .slick-prev
 {
-    left: -11px !important;
+    left: -5px !important;
 }	
 .slick-prev {
     left: -25px !important;
