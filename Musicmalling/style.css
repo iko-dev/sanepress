@@ -7968,13 +7968,13 @@ body.page-news div#news-responsive {
 }
 } */
 @media screen and (max-width:989px){
-    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+    /* .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
     position: relative;
     right: 0 !important;
     width: 100%;
     display: inline-grid;
     top: -50px !important;
-    }
+    } */
     .av-hamburger-inner, .av-hamburger-inner::before, .av-hamburger-inner::after {
         width: 40px !important;
     }
