@@ -6991,18 +6991,12 @@ div#after_section_11 {
     opacity: 0;
     visibility: hidden;
 }
-.sub-menu li:nth-child(2) span a {
-    padding-top: 0px !important;
-    padding-bottom: 8px !important;
+
+.sub-menu li span a {
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
 }
-.sub-menu li:nth-child(1) span a {
-    padding-bottom: 8px !important;
-    padding-top: 8px !important;
-}
-.sub-menu li:nth-child(3) span a {
-    padding-top: 0px !important;
-    padding-bottom: 8px !important;
-}
+
 .sub-menu li span a {
     text-transform: uppercase !important;
 }
@@ -8221,6 +8215,12 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    div#about-responsive .container {
+        height: 64px !important;
+    }
+    div#about-responsive {
+        background-size: cover !important;
     }
     div#video-section {
         background-size: contain;
