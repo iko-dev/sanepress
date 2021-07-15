@@ -7917,6 +7917,9 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .av-hamburger-inner, .av-hamburger-inner::before, .av-hamburger-inner::after {
+        width: 40px !important;
+    }
     responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: -34px;
     }
