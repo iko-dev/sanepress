@@ -3734,6 +3734,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
     }
+    div#about-responsive .container {
+        height: 290px !important;
+    }
     #learning-responsive-2{padding-bottom:50px;}
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
@@ -3831,6 +3834,9 @@ div#donate-section-bottom .container {
 /* (1280x1024) SXGA Display */
 @media  screen and (max-width: 1024px) {
     /* insert styles here */
+    div#about-responsive .container {
+        height: 206px !important;
+    }
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 250px !important;
     }
@@ -7931,6 +7937,9 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    div#about-responsive .container {
+        height: 155px !important;
+    }
     .av-hamburger-inner, .av-hamburger-inner::before, .av-hamburger-inner::after {
         width: 40px !important;
     }
@@ -8087,6 +8096,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    div#about-responsive .container {
+        height: 86px !important;
+    }
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
     }
@@ -8199,6 +8211,12 @@ div#video-section {
 @media screen and (max-width: 376px){
     div#video-responsive-music .container {
         height: 114px !important;
+    }
+    div#about-responsive {
+        background-size: cover !important;
+    }
+    div#about-responsive .container {
+        height: 75px !important;
     }
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
