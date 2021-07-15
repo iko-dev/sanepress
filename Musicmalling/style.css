@@ -4734,7 +4734,7 @@ border-radius: 30px;
     }
     .curated-block {
         display: inline-block;
-        padding: 0px 15px;
+        padding: 0px 0px;
     }
     div#artist-responsive-3 .container {
         height: 126px !important;
@@ -7433,9 +7433,9 @@ span.website__design {
         margin-right: 0;
     }
     .curated-content {
-        padding: 10px 22px;
+        padding: 10px 45px;
         width: 100%;
-        padding-right: 15px;
+    
     }
 
     .page-music div#news-section {
