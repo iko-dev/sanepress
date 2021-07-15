@@ -7967,6 +7967,7 @@ body.page-news div#news-responsive {
 .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
     height: 100px !important;
 }
+.videos-container .single-video .description-detail-text p{margin-top:0px;margin-bottom:0px;}
     .description-video.flex_column.av_one_third .video_image {
         height: 200px;
     }
