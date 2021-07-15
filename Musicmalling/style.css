@@ -3722,6 +3722,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
 }
 /* (1440x900) WXGA+ Display */
 @media  screen and (max-width: 1440px) {
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 400px !important;
+    }
     #learning-responsive-2{padding-bottom:50px;}
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
@@ -3819,6 +3822,9 @@ div#donate-section-bottom .container {
 /* (1280x1024) SXGA Display */
 @media  screen and (max-width: 1024px) {
     /* insert styles here */
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 250px !important;
+    }
     div#video-responsive-music .container {
         height: 311px !important;
     }
@@ -4722,6 +4728,9 @@ border-radius: 30px;
 @media only screen and (max-width:768px) {
     div#video-responsive-music .container {
         height: 233px !important;
+    }
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 170px !important;
     }
     .curated-block {
         display: inline-block;
@@ -8049,7 +8058,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
-
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 140px !important;
+    }
     .slick-prev, .slick-next {
     
         width: 20px !important;
@@ -8157,6 +8168,9 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 110px !important;
+    }
     ul#menu-footer-bottom li a{font-size:11px;}
     .curated-block {
         padding: 0px 0px !important;
@@ -8225,6 +8239,9 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
+        height: 100px !important;
     }
     div#about-responsive .container {
         height: 64px !important;
