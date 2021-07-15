@@ -3413,7 +3413,7 @@ ul#av-burger-menu-ul {
     opacity: 1 !important;
 }
 .play-button{
-    background-image: url("images/icon-video-play.svg") !important;
+    background-image: url("http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/icon-video-play.svg") !important;
     min-height: 80px !important;
     width: 80px !important;
     opacity: 0.8;
@@ -3609,7 +3609,7 @@ a.close:hover {
     transition: color 1s ease;
 }
 .play-button {
-    background-image: url("images/youtube.png");
+    background-image: url("http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/youtube.png");
     background-repeat: no-repeat;
     display: inline-block;
     min-height: 60px;
@@ -4323,7 +4323,7 @@ div#date_logo .hr {
 
     /* Footer years*/
     .previous-year-content {
-        background: url(images/linefooter.png) repeat-x top center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/linefooter.png) repeat-x top center;
     }
     .previous-year-content{
         height: auto;
@@ -4352,7 +4352,7 @@ div#date_logo .hr {
         justify-content: flex-start;
     }
     ul.rightlink .supporter {
-        background: url(images/supporter.png) no-repeat 22px 0px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/supporter.png) no-repeat 22px 0px;
         height: 140px;
         padding-top: 89px;
         background-position-y: 0px;
@@ -4362,7 +4362,7 @@ div#date_logo .hr {
     }
     ul.rightlink .advertiser {
         width: 50%;
-        background: url(images/advertisers.png) no-repeat 50px 5px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/advertisers.png) no-repeat 50px 5px;
         padding-top: 89px;
         background-position-y: 5px;
 
@@ -4441,7 +4441,7 @@ div#date_logo .hr {
         padding: 0px 0px 0px 0px !important;
     }
     .partner, .learning {
-        background: url(images/localplaces.png) no-repeat 0px 0px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/localplaces.png) no-repeat 0px 0px;
         padding-left: 20px;
         /*padding-left: 20%;*/
         background-position-x: 0px;
@@ -4452,7 +4452,7 @@ div#date_logo .hr {
     }
     .support, .home-section {
         margin-left: 0px !important;
-        background: url(images/support.png) no-repeat 0px 0px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/support.png) no-repeat 0px 0px;
         padding-left: 20px;
         /*		padding-left: 40%;*/
         background-position-x: 0px;
@@ -4643,7 +4643,7 @@ div#date_logo .hr {
         position: absolute;
         right: 25px;
         bottom: 39px;
-        background:url(images/socialbg.png) no-repeat;
+        background:url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/socialbg.png) no-repeat;
         width: 115px;
         height: 50px;
         padding: 5px;
@@ -4769,7 +4769,7 @@ border-radius: 30px;
     background-image: none !important;
 }
     #home_content_box{
-        background-image: url(images/mobile-second-bg.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/mobile-second-bg.png) !important;
         background-color: #fff !important;
     }
 
@@ -4788,7 +4788,7 @@ border-radius: 30px;
         padding-top: 20px;
     }
     #twitter{
-        background-image: url(images/home-3-1.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/home-3-1.png) !important;
     }
     #twitter .container     {
         height: 545px !important;
@@ -4867,7 +4867,7 @@ border-radius: 30px;
         padding-top:30px !important;
     }
     #artist-responsive{
-        background-image: url(images/artist-1.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-1.png) !important;
     }
     #artist-responsive .container     {
         height: 403px !important;
@@ -4876,7 +4876,7 @@ border-radius: 30px;
   
   
     #learning-responsive-1{
-        background-image: url(images/learning-1.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/learning-1.png) !important;
     }
     /* #learning-responsive-2{
        background-image: url(images/learning-2.png) !important;
@@ -4899,14 +4899,14 @@ border-radius: 30px;
         padding-top: 5px !important;
     }
     .news_header {
-        background: #FCFBF2 url(images/news-1-sub.png) no-repeat top center;
+        background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-1-sub.png) no-repeat top center;
     }
     #news-responsive .container {
         height: 312px !important;
         padding-top: 0px !important;
     }
     #news-responsive-1{
-        background-image: url(images/news-2.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-2.png) !important;
     }
     #news-responsive-1 .container {
         padding-top: 50px !important;
@@ -4927,10 +4927,10 @@ border-radius: 30px;
         margin-top: -30px;
     }
     #ticket-responsive{
-        background-image: url(images/ticket-1.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/ticket-1.png) !important;
     }
     #dontmiss{
-        background-image: url(images/ticket-2.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/ticket-2.png) !important;
     }
     #dontmiss .container .template-page .post-entry-61 .avia_textblock {
         max-width: 375;
@@ -4957,7 +4957,7 @@ border-radius: 30px;
 
     #support-responsive,
     #advertiser-responsive{
-        background-image: url(images/suppoert-1.png) !important;
+        background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/suppoert-1.png) !important;
     }
     #support-responsive .container,
     #advertiser-responsive .container{
@@ -5135,7 +5135,7 @@ border-radius: 30px;
         float:none !important;
     } 
     .latest_news_image a img {
-        background: url(images/imagebg.png) no-repeat;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/imagebg.png) no-repeat;
         padding: 5px;
         background-size: cover;
         max-width: 100%;
@@ -5374,7 +5374,7 @@ border-radius: 30px;
         top: 850px;
     }
     .artists_icon-17{
-        background: url(images/artist-icon17.png) no-repeat center center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-icon17.png) no-repeat center center;
         min-width:66px;
         height: 144px;
         background-position: center center;
@@ -5385,7 +5385,7 @@ border-radius: 30px;
         top: 850px;
     }
     .artists_icon-18{
-        background: url(images/artist-icon18.png) no-repeat center center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-icon18.png) no-repeat center center;
         min-width:79px;
         height: 162px;
         background-position: center center;
@@ -5396,7 +5396,7 @@ border-radius: 30px;
         top: 1050px;
     }
     .artists_icon-19{
-        background: url(images/artist-icon19.png) no-repeat center center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-icon19.png) no-repeat center center;
         min-width:79px;
         height: 109px;
         background-position: center center;
@@ -5407,7 +5407,7 @@ border-radius: 30px;
         top: 1050px;
     }
     .artists_icon-20{
-        background: url(images/artist-icon20.png) no-repeat center center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-icon20.png) no-repeat center center;
         min-width:80px;
         height: 157px;
         background-position: center center;
@@ -5418,7 +5418,7 @@ border-radius: 30px;
         top: 1050px;
     }
     .artists_icon-21{
-        background: url(images/artist-icon21.png) no-repeat center center;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/artist-icon21.png) no-repeat center center;
         min-width:79px;
         height: 133px;
         background-position: center center;
@@ -5667,7 +5667,7 @@ border-radius: 30px;
 {
     .support, .home-section {
         margin-left: 0px !important;
-        background: url(images/support.png) no-repeat 0px 0px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/support.png) no-repeat 0px 0px;
         padding-left: 50px;
         /* padding-left: 40%; */
         background-position-x: 0px;
@@ -5677,7 +5677,7 @@ border-radius: 30px;
         padding-bottom: 25px;
     }
     .partner, .learning {
-        background: url(images/localplaces.png) no-repeat 0px 0px;
+        background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/localplaces.png) no-repeat 0px 0px;
         padding-left: 50px;
         /* padding-left: 20%; */
         background-position-x: 0px;
@@ -6227,7 +6227,7 @@ li .avia_mega_div ul ul.sub-menu {
     padding: 16px 18px;
     color: #333333 !important;
     margin-bottom: 55px;
-    background: url(images/down.png) right 18px center no-repeat !important;
+    background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/down.png) right 18px center no-repeat !important;
     background-size: 20px !important;
     font-family: 'Signika, Arial';
 }
@@ -6395,7 +6395,7 @@ span.copyright a:hover {
 	    color: #333;
 }
 .box .play-button {
-    background-image: url(images/icon-video-play.svg) !important;
+    background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/icon-video-play.svg) !important;
     min-height: 70px !important;
     width: 70px !important;
     opacity: 0.8;
@@ -6419,7 +6419,7 @@ span.copyright a:hover {
     display: block;
 }
 .box.small-video .play-button {
-    background-image: url(images/icon-video-play.svg) !important;
+    background-image: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/icon-video-play.svg) !important;
     min-height: 41px !important;
     width: 41px !important;
     background-size: 100%;
@@ -7174,7 +7174,7 @@ div#home-section p {
 }
 .error404 #main {
     background-repeat: no-repeat;
-    background-image: url(/wp-content/uploads/2020/06/home-header-new_01.png);
+    background-image: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/06/home-header-new_01.png);
     background-position: top center;
     height: 100vh;
 }.error404 #main .main_color.fullsize {
@@ -7592,7 +7592,7 @@ div#full_image .container {
     background: #63c4b1;
 }
 .animation-section .img-sun {
-    background: url(/wp-content/uploads/2020/07/sun.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/07/sun.png);
     width: 180px;
     height: 180px;
     background-position: top center;
@@ -7612,7 +7612,7 @@ div#full_image .container {
     margin-top: 72px;
 }
 .img-0 {
-    background: url(/wp-content/uploads/2020/07/layer-4.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/07/layer-4.png);
     width: 100%;
     height: 120px;
     top:346px;
@@ -7621,7 +7621,7 @@ div#full_image .container {
     margin-bottom: -120px;
 }
 .img-ist {
-    background: url(/wp-content/uploads/2020/08/layer-2.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/08/layer-2.png);
     width: 100%;
     height: 170px;
     background-repeat: no-repeat;
@@ -7630,7 +7630,7 @@ div#full_image .container {
     top:317px;
 }
 .img-2nd {
-    background: url(/wp-content/uploads/2020/08/layer-3.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/08/layer-3.png);
     width: 100%;
     height: 343px;
     background-position: top center;
@@ -7640,7 +7640,7 @@ div#full_image .container {
     top:249px;
 }
 .img-3rd {
-    background: url(/wp-content/uploads/2020/07/layer-1.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/uploads/2020/07/layer-1.png);
     width: 100%;
     height: 1236px;
     background-position: top center;
@@ -7660,7 +7660,7 @@ div#full_image .container {
 }
 
 .tree-right {
-    background: url(images/tree.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/tree.png);
     position: absolute;
     height: 120px;
     width: 230px;
@@ -7692,7 +7692,7 @@ div#full_image .container {
     top: 0;
 }
 .hill-tree-left{
-    background: url(images/tree-hill.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/tree-hill.png);
     background-repeat: repeat;
     height: 193px;
     left: 0;
@@ -7704,7 +7704,7 @@ div#full_image .container {
     background-repeat: no-repeat;
 }
 .hill-home-right {
-    background: url(images/house-hill.png);
+    background: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/house-hill.png);
     position: absolute;
     width: 415px;
     height: 226px;
