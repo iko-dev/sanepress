@@ -7966,6 +7966,9 @@ body.page-news div#news-responsive {
     .av-hamburger-inner, .av-hamburger-inner::before, .av-hamburger-inner::after {
         width: 40px !important;
     }
+    body:not(.home) #avia-menu-0 {
+        top: -46px;
+    }
 }
 @media screen and (max-width:769px){
 	#donate-section button {
