@@ -1138,7 +1138,7 @@ div#mapbtm .container {
 }
 /* Single News */
 .news_header {
-    background: #FCFBF2 url(images/news-single_1.png) no-repeat top center;
+    background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-single_1.png) no-repeat top center;
     /* min-height: 1200px;*/
     border: 0px;
 }
@@ -7963,7 +7963,7 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
-    .videos-container .single-video .video-title h3{margin-top:20px;}
+    .videos-container .single-video .video-title h3{margin-top:15px;}
 .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
     height: 100px !important;
 }
