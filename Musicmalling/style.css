@@ -8247,6 +8247,12 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    .large-box .video_image, .videos-container .single-video .video_image {
+        height: 200px !important;
+    }
+    .single-video-container, .btn.btn-primary.btn-lg {
+        min-height: 200px !important;
+    }
     .page-venues section {
         padding-left: 0;
     }
