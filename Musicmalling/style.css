@@ -3966,6 +3966,9 @@ div#date_logo .hr {
        margin-bottom: 0px !important;
         width: 100%;
     }
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: 0px !important;
+    }
     #menu-footer-bottom{text-align:left;}
     #menu-footer-bottom li{
         padding-left: 0px !important;
@@ -7913,6 +7916,11 @@ body.page-news div#news-responsive {
     height: 123px !important;
 }
 } */
+@media screen and (max-width:769px){
+    .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: -34px !important;
+    }
+}
 @media screen and (max-width:769px){
 	#donate-section button {
 	margin-top: 10px !important;
