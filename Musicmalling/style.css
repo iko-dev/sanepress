@@ -101,6 +101,9 @@ div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third
     background: #96CDE7;
 	height:100px;
 }
+.av-main-nav li {
+    margin-top: -1px !important;
+}
 #fitvid0{
     width:100% !important;
 }
