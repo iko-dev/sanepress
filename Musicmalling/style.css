@@ -298,18 +298,6 @@ background-size: contain !important;
     background: #f7a992;
 }
 
-#avia-menu-0 {
-
-    float: right;
-    position: relative;
-    right: -28px;
-    width: 100%;
-    /* display: block; */
-    display: inline-grid;
-    top: -13px;
-
-}
-
 #mobile-menu{
     display: none;
 }
