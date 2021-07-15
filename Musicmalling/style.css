@@ -7960,6 +7960,7 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .video-page-description{ display:none; }
     .page-board div#about-responsive {
         background-size: contain !important;
     }
