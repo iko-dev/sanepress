@@ -7393,8 +7393,10 @@ div#video-responsive .container {
 div#festival-responsive section.av_textblock_section {
     padding-top: 40px;
 }	
-	span.company__charity {
-    padding-top: 0px;
+span.company__charity {
+    padding-top: 5px;
+    text-align: left;
+    width: 100%;
 }
 	#socket .container {
     text-align: center;
@@ -7404,9 +7406,12 @@ span.website__design {
     float: left !important;
     width: 100%;
 }
-    #socket .copyright {
-        float: unset;
-    }
+#socket .copyright {
+
+    text-align: left;
+    width: 100%;
+    float: left;
+}
     .footer-bottom-left-content {
         float: unset;
     }
