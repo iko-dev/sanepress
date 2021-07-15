@@ -7377,9 +7377,7 @@ div#news-section-top .container {
 .social_link {
     display: none;
 }	
-span.website__design {
-    float: none !important;
-}	
+
 div#home_listen-section {
     margin-bottom: 0px;
 }	
@@ -7401,8 +7399,10 @@ div#festival-responsive section.av_textblock_section {
 	#socket .container {
     text-align: center;
 }
-	span.website__design {
-    float: none;
+span.website__design {
+    text-align: left;
+    float: left !important;
+    width: 100%;
 }
     #socket .copyright {
         float: unset;
