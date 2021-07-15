@@ -7921,7 +7921,7 @@ body.page-news div#news-responsive {
         width: 40px !important;
     }
     responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
-        top: -34px;
+        top: -34px !important;
     }
     #learning-responsive-4 .container {
         height: 232px !important;
