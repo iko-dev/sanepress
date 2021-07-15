@@ -3847,6 +3847,9 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    .page-gallery .hr.hr-invisible.avia-builder-el-4.el_before_av_heading.avia-builder-el-first {
+        height: 0 !important;
+    }
     .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 150px !important;
     }
@@ -7960,6 +7963,13 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .description-video.flex_column.av_one_third .video_image {
+        height: 200px;
+    }
+    
+    .single-video-container, .btn.btn-primary.btn-lg {
+        min-height: 200px !important;
+    }
     .video-page-description{ display:none; }
     .page-board div#about-responsive {
         background-size: contain !important;
