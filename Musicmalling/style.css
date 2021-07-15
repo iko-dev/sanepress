@@ -3951,6 +3951,10 @@ div#date_logo .hr {
        margin-bottom: 0px !important;
         width: 100%;
     }
+    .menu-footer-bottom{text-align:left;}
+    .menu-footer-bottom li{
+        padding-left: 0px !important;
+    }
     #buy_season_modal .modal-content {
         width: auto;
         margin: 10px auto;
@@ -8153,6 +8157,7 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    ul#menu-footer-bottom li a{font-size:11px;}
     .curated-block {
         padding: 0px 0px !important;
     }
