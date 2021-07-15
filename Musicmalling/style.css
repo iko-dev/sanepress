@@ -3951,8 +3951,8 @@ div#date_logo .hr {
        margin-bottom: 0px !important;
         width: 100%;
     }
-    .menu-footer-bottom{text-align:left;}
-    .menu-footer-bottom li{
+    #menu-footer-bottom{text-align:left;}
+    #menu-footer-bottom li{
         padding-left: 0px !important;
     }
     #buy_season_modal .modal-content {
