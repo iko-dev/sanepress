@@ -4998,7 +4998,7 @@ border-radius: 30px;
     }*/
     .single-video-container,
     .btn.btn-primary.btn-lg{
-        min-height: 150px !important; 
+        height: 100%;
     }
     .single-video-container .video_image{
         height: 150px !important;	
