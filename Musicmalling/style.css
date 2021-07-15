@@ -4730,7 +4730,7 @@ border-radius: 30px;
         margin-left: 0;
     }
     div#curated-section .slick-prev {
-        left: 0px;
+        left: -5px !important;
     }
     div#curated-section .slick-next {
         right: -5px !important;
