@@ -3723,6 +3723,7 @@ a.close:hover {
     text-align: left;
     width: 70%;
 }
+div#news-section
 div#home_date-section-top, div#home_date-section-bottm, div#news-section-top, div#donate-section-top, div#donate-section-bottom
 {
    background-size: cover !important; 
@@ -3737,6 +3738,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
 @media  screen and (max-width: 1440px) {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
+    }
+    .news_inner .content {
+        margin-top: 30px !important;
     }
     .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 250px !important;
@@ -3849,6 +3853,9 @@ div#donate-section-bottom .container {
     /* insert styles here */
     div#about-responsive .container {
         height: 206px !important;
+    }
+    .news_inner .content {
+        margin-top: 0px !important;
     }
     .page-gallery .hr.hr-invisible.avia-builder-el-4.el_before_av_heading.avia-builder-el-first {
         height: 0 !important;
@@ -7972,6 +7979,9 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    body:not(.home) #avia-menu-0 {
+        top: -10px;
+    }
     .gal-item {
         overflow: hidden;
         padding: 0px 0px 0px;
