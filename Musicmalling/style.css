@@ -7950,6 +7950,7 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    .responsive #top .container .av-content-small, .responsive #top #wrap_all .flex_column, .responsive #top #wrap_all .av-flex-cells .no_margin{margin-bottom:5px;}
     .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
         height: 80px !important;
     }
