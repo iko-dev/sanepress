@@ -7967,7 +7967,7 @@ body.page-news div#news-responsive {
         width: 40px !important;
     }
     body:not(.home) #avia-menu-0 {
-        top: -46px;
+        top: -46px !important;
     }
 }
 @media screen and (max-width:769px){
