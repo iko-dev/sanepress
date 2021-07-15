@@ -8109,7 +8109,7 @@ div#home_listen-section .slick-prev,
         height: 86px !important;
     }
     .page-venues section {
-        padding-left: 100px;
+        padding-left: 0px;
     }
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
