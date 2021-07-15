@@ -8003,6 +8003,12 @@ div#donate-section-bottom .content, .sidebar {
     z-index: 0;
     padding: 30px 0 15px 0 !important;
 }
+div#curated-section .slick-prev {
+    left: 0px !important;
+}
+div#curated-section .slick-next {
+    right: 0px !important;
+}
 div#home_listen-section .slick-next
 {
     right: -11px !important;
