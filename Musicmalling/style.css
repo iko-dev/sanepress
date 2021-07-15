@@ -8023,6 +8023,13 @@ div#home_listen-section .slick-prev
 .slick-prev {
     left: -25px !important;
 }
+div#home_date-section .slick-next.slick-arrow {
+    right: 0px !important;
+}
+
+div#home_date-section .slick-prev.slick-arrow {
+    left: 0px !important;
+}
 div#home_listen-section .slick-next,
 div#home_listen-section .slick-prev,
 .slick-prev, .slick-next {
