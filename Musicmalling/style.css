@@ -7953,12 +7953,7 @@ div#home_date-section .slick-next.slick-arrow img, div#home_date-section .slick-
     display: block;
     width: 30px;
 }
-div#home_listen-section .slick-prev {
-    left: -11px;
-}
-div#home_listen-section .slick-prev {
-    left: -11px;
-}
+
 div#home_date-section-bottm .container {
     height: 43px !important;
 }
@@ -8008,11 +8003,17 @@ div#donate-section-bottom .content, .sidebar {
     z-index: 0;
     padding: 30px 0 15px 0 !important;
 }
-div#home_listen-section .slick-next,
+div#home_listen-section .slick-next
+{
+    right: -11px !important;
+}
 .slick-next {
     right: -25px !important;
 }
-div#home_listen-section .slick-prev,	
+div#home_listen-section .slick-prev
+{
+    left: -11px !important;
+}	
 .slick-prev {
     left: -25px !important;
 }
