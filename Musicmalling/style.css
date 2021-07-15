@@ -8007,12 +8007,25 @@ div#donate-section-bottom .content, .sidebar {
 #footer {
     z-index: 0;
     padding: 30px 0 15px 0 !important;
+}
+.slick-next {
+    right: -25px !important;
 }	
+.slick-prev {
+    left: -25px !important;
+}
+.slick-prev, .slick-next {
+
+    width: 25px !important;
+    height: 25px !important;
+
+}
 }
 @media screen and (max-width: 426px){
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+
     .slick-prev, .slick-next {
     
         width: 20px !important;
