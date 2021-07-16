@@ -1129,9 +1129,7 @@ div#mapbtm .container {
 }
 /* Single News */
 .news_header {
-    background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-single_1.png) no-repeat top center;
-    /* min-height: 1200px;*/
-    border: 0px;
+    background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-1-sub.png) no-repeat top center;
 }
 .home .h-title {
     padding-bottom: 0px;
