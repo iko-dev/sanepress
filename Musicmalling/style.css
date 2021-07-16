@@ -72,6 +72,9 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover{
 div#news-section-top {
     height: 290px !important;
 }
+.page-contact div#contact-responsive {
+    background-size: cover !important;
+}
 .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
     height: 550px !important;
 }
