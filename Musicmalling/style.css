@@ -3729,6 +3729,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
     }
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 350px !important;
+    }
     .news_inner .content {
         margin-top: 100px !important;
     }
