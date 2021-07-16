@@ -1837,7 +1837,7 @@ Festival page
 .page-shop #header_main_alternate,
 .page-shop #header .sub-menu,
 .page-shop #header {
-    background: #95cce6;
+    background: #95cce6 !important;
 }
 .post-lorem #header_main_alternate,
 .post-lorem #header .sub-menu {
@@ -3271,7 +3271,7 @@ p.a3e{
 .page-id-301 #header,.page-id-301 #mobile-advanced,
 .tag #header,.tag #mobile-advanced
 {
-    background: #c5dd85;
+    background: #c5dd85 !important;
 }
 .page-id-3059 #header {
     background: #c5dd85;
@@ -3331,7 +3331,7 @@ p.a3e{
  */
 
 .page-current-festivals #header, .page-current-festivals .av-burger-overlay{
-    background: #7dbdaf;
+    background: #7dbdaf !important;
 }
 
 .page-id-42 #header, .page-id-42 .av-burger-overlay{
@@ -3342,7 +3342,7 @@ p.a3e{
     background: #F7A992;
 }
 .page-id-51 #header,.page-id-51  .av-burger-overlay{
-    background: #3A7FC1;
+    background: #3A7FC1 !important;
 }
 .page-id-573 #header,.page-id-573 .av-burger-overlay {
     background: #56BDAB;
@@ -3375,7 +3375,7 @@ p.a3e{
 }
 .page-learning-zone #header,
 .page-learning-zone .av-burger-overlay {
-    background: #ccd884;
+    background: #ccd884 !important;
 }
 .page-venues #header,
 .page-id-581 #header, .page-id-573 #header, .page-id-581 .av-burger-overlay, .page-id-573 .av-burger-overlay {
