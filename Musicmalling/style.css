@@ -864,7 +864,7 @@ ul.rightlink .advertiser {
     outline: none;
     width: 64px;
     height: 39px;
-    background: url(images/send.png) no-repeat;
+    background: url(https://musicatmalling.com/wp-content/themes/musicmalling/images/send.png) no-repeat;
     background-color: transparent !important;
     float: right;
 }
@@ -3261,8 +3261,7 @@ p.a3e{
 .page-current-festivals #header, .page-current-festivals #mobile-advanced {
     background: #F06B83;
 }
-.post-news .sub-menu
-{
+.post-news #header .avia_mega_div .sub-menu {
     background: #F7A992;
 }
 
