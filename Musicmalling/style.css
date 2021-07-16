@@ -3240,26 +3240,30 @@ p.a3e{
 
 .page-id-2941 #header,.page-id-2941 #mobile-advanced,
 .page-id-2941 #header .sub-menu{
-    background:  #63c4b1;
+    background:  #63c4b1 !important;
 }
 .page-id-2 #header,.page-id-2 #mobile-advanced,
 .page-id-2 #header .sub-menu{
-    background: #61C3B1;
+    background: #61C3B1 !important;
 }
 .page-id-2740 #header,
 .page-id-2834 #header,
 .page-id-2577 #header, 
 .page-id-2577 #header .sub-menu,
 .page-id-2834 #header .sub-menu{
-    background: #56bdab;
+    background: #56bdab !important;
 }
 .page-id-6 #header, .page-id-6 #mobile-advanced,
 .page-id-6 #header .sub-menu
 {
-    background: #C5E282;
+    background: #C5E282 !important;
 }
 .page-current-festivals #header, .page-current-festivals #mobile-advanced {
     background: #F06B83;
+}
+.post-news .sub-menu
+{
+    background: #F7A992;
 }
 
 .page-id-42 #header, .page-id-42 #mobile-advanced,
