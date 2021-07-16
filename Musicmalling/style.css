@@ -3856,6 +3856,13 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    div#donate-new {
+        background-size: contain !important;
+    }
+
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 240px !important;
+    }
     .news_inner .content {
         margin-top: 0px !important;
     }
@@ -7989,6 +7996,13 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    div#donate-new {
+        background-size: contain !important;
+    }
+
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 150px !important;
+    }
     body:not(.home) #avia-menu-0 {
         top: -10px;
     }
@@ -8187,6 +8201,13 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    div#donate-new {
+        background-size: contain !important;
+    }
+
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 140px !important;
+    }
      .news_inner .content {
         margin-top: 0px !important;
     }
@@ -8327,6 +8348,13 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    div#donate-new {
+        background-size: contain !important;
+    }
+
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 100px !important;
+    }
     .news_inner .content {
         margin-top: 0px !important;
     }
@@ -8431,6 +8459,13 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    div#donate-new {
+        background-size: contain !important;
+    }
+
+    .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
+        height: 85px !important;
     }
     .news_inner .content {
         margin-top: 0px !important;
