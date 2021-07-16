@@ -3840,9 +3840,7 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
-    .news_inner .content {
-        margin-top: 0px !important;
-    }
+   
     .page-gallery .hr.hr-invisible.avia-builder-el-4.el_before_av_heading.avia-builder-el-first {
         height: 0 !important;
     }
@@ -8408,6 +8406,9 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    .news_inner .content {
+        margin-top: 100px !important;
     }
     .page-gallery div#about-responsive {
         background-size: contain !important;
