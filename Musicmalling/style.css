@@ -67,9 +67,6 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover{
 #top .avia-button:hover .avia_button_background {
     opacity: 0.5 !important;
 }
-.page-news div#news-responsive {
-    background-size: cover !important;
-}
 /* ************************for background images ********************* */
 @media (min-width: 1600px) and (max-width: 2560px)  {
 div#news-section-top {
@@ -297,7 +294,10 @@ div#news-section .template-page.content.av-content-full.alpha.units .row {
 div#learning-responsive-2 section#persons {
     padding-top: 275px;
 }
-
+.bg-1
+{
+background-size: contain !important;	
+}
 #top .av-section-video-bg .avia-slideshow-inner {
     padding-bottom: 0 !important;
 }
@@ -3747,10 +3747,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
     }
-    .bg-1
-{
-background-size: contain !important;	
-}
+    .page-news div#news-responsive {
+        background-size: contain !important;
+    }
     .page-donate .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
         height: 350px !important;
     }
