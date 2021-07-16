@@ -72,6 +72,12 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover{
 div#news-section-top {
     height: 290px !important;
 }
+div#home_date-section-top .container {
+    height: 185px !important;
+}
+div#home_date-section-top  {
+    background-size: cover !important;
+}
 div#date_logo {
     height: 800px !important;
 }
