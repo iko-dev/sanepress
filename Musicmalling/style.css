@@ -8171,7 +8171,7 @@ div#home_listen-section .slick-prev,
         height: 129px !important;
     }
      .news_inner .content {
-        margin-top: 100px !important;
+        margin-top: 0px !important;
     }
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 50px !important;
@@ -8311,7 +8311,7 @@ div#video-section {
         height: 114px !important;
     }
     .news_inner .content {
-        margin-top: 100px !important;
+        margin-top: 0px !important;
     }
     .page-gallery div#about-responsive {
         background-size: contain !important;
@@ -8416,7 +8416,7 @@ div#video-section {
         height: 97px !important;
     }
     .news_inner .content {
-        margin-top: 100px !important;
+        margin-top: 0px !important;
     }
     .page-gallery div#about-responsive {
         background-size: contain !important;
