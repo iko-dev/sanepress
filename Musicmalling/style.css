@@ -8213,6 +8213,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    .latest_news_right {
+        margin-left: 0% !important;
+    }
     div#donate-new {
         background-size: contain !important;
     }
