@@ -1129,7 +1129,9 @@ div#mapbtm .container {
 }
 /* Single News */
 .news_header {
-    background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-1-sub.png) no-repeat top center;
+    background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-single_1.png) no-repeat top center;
+    /* min-height: 1200px;*/
+    border: 0px;
 }
 .home .h-title {
     padding-bottom: 0px;
@@ -4930,7 +4932,9 @@ border-radius: 30px;
     #advertise-mausi-malling .container {
         padding-top: 5px !important;
     }
-   
+    .news_header {
+        background: #FCFBF2 url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/news-1-sub.png) no-repeat top center;
+    }
     #news-responsive .container {
         height: 312px !important;
         padding-top: 0px !important;
@@ -8164,7 +8168,7 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
-    .news_inner .content {
+     .news_inner .content {
         margin-top: 100px !important;
     }
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
