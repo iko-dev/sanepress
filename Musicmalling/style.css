@@ -60,7 +60,7 @@ a.avia-button.avia-icon_select-no.avia-size-large {
 }
 
 
-a.avia-button.avia-icon_select-no.avia-size-large:hover  span.avia_button_background{
+a.avia-button.avia-icon_select-no.avia-size-large:hover{
     opacity: 0.50;
     transition: 0.5s;
 }
