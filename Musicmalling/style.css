@@ -3871,6 +3871,9 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    .latest_news_right {
+        margin-left: 0% !important;
+    }
     div#donate-new {
         background-size: contain !important;
     }
