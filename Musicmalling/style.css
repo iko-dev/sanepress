@@ -1905,8 +1905,8 @@ h3.author-title {
 .latest_news_left{
     margin-left: 0px !important;
 }
-.latest_news_right {
-    margin-left: 0!important;
+.latest_news_right{
+    margin-left: 0 !important;
 }
 .latest_news_image a img{
     background:url(images/imagebg.png) no-repeat;
@@ -3743,6 +3743,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
 @media  screen and (max-width: 1440px) {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
+    }
+    .latest_news_right{
+        margin-left: 14.5% !important;
     }
     div#donate-new {
         background-size: contain !important;
