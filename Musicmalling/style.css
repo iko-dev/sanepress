@@ -252,6 +252,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 5px 28px;
 
 }
+.page-partnerships .avia_mega_div,
 .page-friend .avia_mega_div,
 .page-season-ticket .avia_mega_div,
 .page-about-musicmalling .avia_mega_div,
@@ -259,7 +260,7 @@ h1,h2,h3,h4,h5,h6{
 .page-artistic-director .avia_mega_div,
 .page-gallery .avia_mega_div,
 .page-donate  .avia_mega_div {
-    background-color:#96CDE7;
+    background-color:#8399a3 !important;
 }
 .current-menu-item .avia-menu-text {
     opacity: 50%;
