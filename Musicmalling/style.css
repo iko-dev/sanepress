@@ -1905,8 +1905,8 @@ h3.author-title {
 .latest_news_left{
     margin-left: 0px !important;
 }
-.latest_news_right{
-    margin-left: 14.5% !important;
+.latest_news_right {
+    margin-left: 0!important;
 }
 .latest_news_image a img{
     background:url(images/imagebg.png) no-repeat;
