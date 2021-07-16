@@ -8168,6 +8168,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    .news_inner .content {
+        margin-top: 100px !important;
+    }
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 50px !important;
     }
@@ -8304,6 +8307,9 @@ div#video-section {
 @media screen and (max-width: 376px){
     div#video-responsive-music .container {
         height: 114px !important;
+    }
+    .news_inner .content {
+        margin-top: 100px !important;
     }
     .page-gallery div#about-responsive {
         background-size: contain !important;
