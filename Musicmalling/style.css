@@ -1864,10 +1864,10 @@ Festival page
 .page-current-festivals #header .sub-menu {
     background: #7dbdaf;
 }
-.page-venues #header_main_alternate,
+/**.page-venues #header_main_alternate,
 .page-venues #header .sub-menu {
     background: #56bdab;
-}
+}**/
 .page-privacy-policy #header_main_alternate,
 .page-privacy-policy #header .sub-menu,
 .page-privacy-policy #header {
