@@ -3773,9 +3773,6 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     .page-venues section {
         padding-left: 50px;
     }
-    div#about-responsive .container {
-        height: 290px !important;
-    }
     #learning-responsive-2{padding-bottom:50px;}
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
