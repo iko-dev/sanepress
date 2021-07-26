@@ -7301,7 +7301,7 @@ p.icon-text i {
     color: hsl(0, 0%, 100%);
     float: left;
     left: 0;
-    min-height: 178px;
+    min-height: 178px !important;
     position: relative;
     top: 0;
     width: 100%;
