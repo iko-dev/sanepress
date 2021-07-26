@@ -3713,16 +3713,16 @@ a.close:hover {
     display: -webkit-flex;
     display: -moz-flex;
 }
-/* .page-current-festivals .eventsection .eventHeader {
+.page-current-festivals .eventsection .eventHeader {
     width: 60%;
-} */
+} 
 
 
-.page-current-festivals .eventsection .ticketButton {
+/* .page-current-festivals .eventsection .ticketButton {
     width: 80%;
     text-align: center;
     padding: 15px 20%;
-}
+} */
 .paywall-wrapper {
     display: none;
 }
