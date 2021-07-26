@@ -2947,7 +2947,7 @@ body.archive.author.author-tomkmalling header#header #header_main{
     top: 0px;
     width: 37px;
     height: 36px;
-    background:url(images/close.png) no-repeat;
+    background:url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/close.png) no-repeat;
     font-size: 0px;
 }
 .menu-close-video{
@@ -2955,7 +2955,7 @@ body.archive.author.author-tomkmalling header#header #header_main{
     left: -9px;
     width: 37px;
     height: 36px;
-    background:url(images/close.png) no-repeat;
+    background:url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/close.png) no-repeat;
     font-size: 0px;
     border:none;
 }
