@@ -8613,3 +8613,184 @@ div.slick-prev.slick-arrow::before{
     height: 95px !important;
 }
 }
+
+
+
+/* ****************************************Asim css************************************* */
+
+.single-post-content p{
+    font-family: 'Signika', Arial;
+}
+  
+.wonderplugin-gridgallery-item > a > div,  
+div#html5-watermark > a > div > div {
+    display: none;
+}
+
+.wonderplugin-gridgallery-item > a > div, 
+div#html5-watermark > a > div {
+    display: none !important;
+    height: 0px !important;
+    font-size: 0px !important;
+}
+
+.slick-track {
+    display: flex;
+    align-items: center;
+}
+.videos-container form.form-inline input#search {
+    font-family: 'Signika', Arial !important;
+}
+
+select.previousYear, #top select, #top .avia_ajax_form .select, #top .entry-content-wrapper select {
+    font-family: 'Signika', Arial !important;
+}
+
+.videos-container form.form-inline input#search::placeholder{
+    font-family: 'Signika', Arial !important;
+}
+
+.lozenge{
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    border-radius: 30px;
+    padding: 10px 25px;
+    display: inline;
+    transition: 0.5s;
+    color: #ffffff !important;
+    font-family: 'Trajan W01 Regular';
+    font-size: 13px;
+}
+
+.block_center section{
+    display: -webkit-flex;
+    -webkit-justify-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.page-gallery #footer:not(.footer_color) .container,
+.page-board #footer:not(.footer_color) .container,
+.page-artistic-director #footer:not(.footer_color) .container,
+.page-partnerships #footer:not(.footer_color) .container,
+.page-contact #footer:not(.footer_color) .container,
+.page-shop #footer:not(.footer_color) .container,
+.page-venues #footer:not(.footer_color) .container,
+.page-artists #footer:not(.footer_color) .container,
+.page-learning-zone #av_section_4 .container,
+.page-current-festivals #av_section_3 .container{
+    height: 180px !important;
+}
+
+.page-gallery #footer:not(.footer_color),
+.page-board #footer:not(.footer_color),
+.page-artistic-director #footer:not(.footer_color),
+.page-partnerships #footer:not(.footer_color),
+.page-contact #footer:not(.footer_color),
+.page-shop #footer:not(.footer_color),
+.page-venues #footer:not(.footer_color),
+.page-artists #footer:not(.footer_color){
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+
+.home-festival-container .col-md-4 {
+    padding-top: 10px;
+}
+
+.home-festival-container div{
+    transition: 0.5s; 
+}
+.home-festival-container div:hover{
+    transition: 0.5s;
+    opacity: 0.5;
+}
+
+.lozenge:hover{
+    background-color: rgb(0 0 0 / .5) !important;
+    transition: 0.5s;
+    opacity: 1;
+
+}
+.page-venues #about-responsive{
+        background-size: contain !important;
+    }
+
+    .page-venues  #header .sub-menu{
+    background:  #63c4b1;
+}
+
+@media only screen and (max-width: 767px){
+ 
+
+    .description-video .video-title h3{
+        margin-top: 10px;
+    }
+    .page-id-2941 #header, .page-id-2941 #mobile-advanced, .page-id-2941 #header .sub-menu {
+    background: none !important;
+}
+div#custom_html-2 h3{
+    margin: 20px 0px 0px 0px;
+}
+
+.cnss-social-icon li {
+    margin: 5px !important;
+}
+.cnss-social-icon .cn-fa-facebook{
+    width: 15px;
+    height: 15px;
+}
+
+    ul#menu-foooter-menu-one li {
+    display: block;
+}
+
+ .learning,
+ .home-section{
+    background: none;
+}
+#footer {
+    z-index: 0;
+    padding: 0px 0 15px 0 !important;
+}
+body:not(.home) .responsive #top #wrap_all .flex_column{
+margin-bottom: 0px;
+}
+
+.home-section{
+padding-bottom: 0px;
+
+}
+
+ .home-section,
+ .learning{
+    padding-left: 20px;
+}
+.page-contact #footer .hr-invisible{
+    display: none;
+}
+.page-contact #footer .template-page.content.av-content-full.alpha.units,
+.page-gallery #footer .template-page.content.av-content-full.alpha.units,
+.page-board #footer .template-page.content.av-content-full.alpha.units,
+.page-artistic-director #footer .template-page.content.av-content-full.alpha.units,
+.page-venues #footer .template-page.content.av-content-full.alpha.units,
+body:not(.home) #av_section_4 .template-page.content.av-content-full.alpha.units,
+body:not(.home) #av_section_3 .template-page.content.av-content-full.alpha.units{
+    padding: 5px 0px;
+}
+.current_page_item.act-menu ul.sub-menu li a span {
+    opacity: 1 !important;
+}
+
+body:not(.home) #avia-menu-0 {
+    top: -46px;
+}
+
+}
+
+@media only screen and (max-width: 375px){
+    span.charity, span.company, #socket .copyright, span.website__design, span.copyright a{
+        font-size: 10px;
+    }
+}
