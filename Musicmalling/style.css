@@ -1873,6 +1873,9 @@ Festival page
 .page-privacy-policy #header {
     background: #62c3b0;
 }
+.venue-section-container h2 {
+    text-align: center;
+}
 .page-terms-and-conditions .template-page.content.av-content-full.alpha.units,
 .page-privacy-policy .template-page.content.av-content-full.alpha.units {
     padding-bottom: 106px;
