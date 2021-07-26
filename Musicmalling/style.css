@@ -4657,7 +4657,7 @@ div#date_logo .hr {
         width: auto;
     }
     .eventsection .ticketButton{
-        width: 30%;
+        width: 100%;
         display: table-cell;
         margin-top: 20px;
     }
