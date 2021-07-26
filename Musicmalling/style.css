@@ -8677,15 +8677,8 @@ select.previousYear, #top select, #top .avia_ajax_form .select, #top .entry-cont
     font-family: 'Trajan W01 Regular';
     font-size: 13px;
 }
-.season-lozenge{
-    background-color: rgba(0, 0, 0, 0.2) !important;
-    border-radius: 30px;
-    padding: 10px 25px;
-    display: inline;
-    transition: 0.5s;
-    color: #ffffff !important;
-    font-family: 'Signika', Arial !important;
-    font-size: 18px;
+p.season-tickets p.a {
+    margin-top: 30px;
 }
 
 .block_center section{
