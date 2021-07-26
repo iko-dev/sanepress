@@ -3710,8 +3710,8 @@ a.close:hover {
     display: -webkit-flex;
     display: -moz-flex;
 }
-.eventsection .eventHeader {
-    width: 68%;
+.page-current-festivals .eventsection .eventHeader {
+    width: 60%;
 }
 .paywall-wrapper {
     display: none;
