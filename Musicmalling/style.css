@@ -119,7 +119,7 @@ div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third
 	height:100px;
 }
 .av-main-nav li {
-    margin-top: -1px !important;
+    /* margin-top: -1px !important; */
 }
 #fitvid0{
     width:100% !important;
@@ -6326,7 +6326,7 @@ li .avia_mega_div ul ul.sub-menu {
     float: left;
     text-align: left;
     line-height: 23px;
-    padding: 8px 15px;
+    padding: 0 15px 10px 15px;
     font-size: 12px;
     min-height: 23px;
     max-width: none;
