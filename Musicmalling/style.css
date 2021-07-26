@@ -6337,6 +6337,9 @@ li .avia_mega_div ul ul.sub-menu {
     font-size: 12px;
     font-weight: normal;
 }
+#header .avia_mega_div > .sub-menu li:first-child {
+    padding-top: 10px !important;
+}
 #top #header .avia_mega_div > .sub-menu > li:hover {
     background: transparent;
 
