@@ -4744,10 +4744,10 @@ div#date_logo .hr {
 padding-left: 25px;
 }
 .large-box .btn.btn-primary.btn-lg {
-    position: absolute !important;
+    /* position: absolute !important;
     left: 50% !important;
     top: 50% !important;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
     padding: 0 !important;
     float: none !important;
 }
