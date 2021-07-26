@@ -6326,7 +6326,7 @@ li .avia_mega_div ul ul.sub-menu {
     float: left;
     text-align: left;
     line-height: 23px;
-    padding: 0 15px 10px 15px;
+    padding: 0 15px 10px 15px !important;
     font-size: 12px;
     min-height: 23px;
     max-width: none;
