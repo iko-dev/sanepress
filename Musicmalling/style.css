@@ -8642,7 +8642,7 @@ div#html5-watermark > a > div {
 .upcoming-date-row .slick-track
 {
     display: flex;
-    align-items: top !important;
+    align-items: inherit !important;
 }
 .slick-track {
     display: flex;
