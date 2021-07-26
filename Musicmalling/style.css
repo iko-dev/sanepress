@@ -8633,7 +8633,12 @@ div#html5-watermark > a > div {
     height: 0px !important;
     font-size: 0px !important;
 }
+.page-home .slick-track
+{
+    display: flex;
+    align-items: inherit !important;
 
+}
 .slick-track {
     display: flex;
     align-items: center;
