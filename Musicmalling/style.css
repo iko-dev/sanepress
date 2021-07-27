@@ -8420,7 +8420,7 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
-   .page-home .main_menu {
+   .page-home div#date_logo .av_mobile_menu_tablet .main_menu {
         top: -15px !important;
     }
     div#donate-new {
