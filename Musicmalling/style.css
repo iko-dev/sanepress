@@ -252,6 +252,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 5px 28px;
 
 }
+.page-sponsor-us .avia_mega_div,
 .page-partnerships .avia_mega_div,
 .page-friend .avia_mega_div,
 .page-season-ticket .avia_mega_div,
@@ -339,6 +340,7 @@ div#donate-section,
 div#news-section {
     margin-top: -1px;
 }
+.page-sponsor-us header#header,
 .page-partnerships header#header,
 .page-about-musicmalling header#header,
 .page-friend header#header,
