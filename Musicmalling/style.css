@@ -8536,7 +8536,7 @@ div#video-section {
         height: 64px !important;
     }
     div#about-responsive {
-        background-size: cover !important;
+        /* background-size: cover !important; */
     }
     div#video-section {
         background-size: contain;
