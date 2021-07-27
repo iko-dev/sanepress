@@ -3788,11 +3788,11 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     .single-learning-zone-container:hover{opacity:0.5;}
     .lz__active{opacity:0.5;}
     /* insert styles here */
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first,
+    /* .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first,
     .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first,
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 220px !important;
-    }
+    } */
     .page-current-festivals .hr.hr-invisible.avia-builder-el-1.el_before_av_textblock.avia-builder-el-first {
         height: 162px !important;
     }
