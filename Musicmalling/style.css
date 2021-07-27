@@ -8418,7 +8418,7 @@ div#video-section {
         height: 0px !important;
     }
     div#about-responsive {
-        background-size: cover !important;
+        /* background-size: cover !important; */
     }
     div#about-responsive .container {
         height: 75px !important;
