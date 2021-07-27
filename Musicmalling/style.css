@@ -8263,6 +8263,10 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
+    .title-wraper h3 {
+        font-size: 20px !important;
+        text-transform: uppercase;
+    }
     .latest_news_right {
         margin-left: 0% !important;
     }
@@ -8403,6 +8407,9 @@ div#video-responsive .container {
 }
 .page-news div#news-responsive .hr.hr-invisible {
     height: 140px !important;
+}
+div#curated-section {
+    background-size: contain !important;
 }
 div#video-section {
     background-size: contain;
