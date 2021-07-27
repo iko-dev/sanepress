@@ -3754,6 +3754,9 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     div#contact-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_third.avia-builder-el-first {
         height: 400px !important;
     }
+    .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 260px !important;
+    }
     .page-partnerships div#about-responsive {
         background-size: contain !important;
     }
