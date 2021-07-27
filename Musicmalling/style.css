@@ -1162,7 +1162,7 @@ div#mapbtm .container {
     font-size: 20px;
     font-weight: 300;
     letter-spacing: 0px;
-    line-height: 29px;
+    line-height: 145%;
     padding: 0px 0px 25px 0px;
 }
 div#home_date-section .slick-next.slick-arrow img,
@@ -6635,7 +6635,7 @@ span.copyright a:hover {
     font-size: 20px;
     font-weight: 300;
     letter-spacing: 0;
-    line-height: 29px;
+    line-height: 145%;
     font-family: 'Signika', Arial;
     max-width: 450px;
     margin-top: 22px;
@@ -6646,7 +6646,7 @@ span.copyright a:hover {
     font-size: 15px;
     font-weight: 300;
     letter-spacing: 0;
-    line-height: 29px;
+    line-height: 145%;
     font-family: 'Signika', Arial;
     max-width: 450px;
     margin-top: 22px;
@@ -6941,7 +6941,7 @@ section.av_textblock_section {
     font-family: 'Signika', Arial;
     font-size: 24px;
     letter-spacing: 0;
-    line-height: 29px;
+    line-height: 145%;
 }
 .news-content p {
     color: #fff;
@@ -7019,7 +7019,7 @@ section.av_textblock_section {
     font-family:'Trajan W01 Regular';
     font-size: 20px;
     letter-spacing: 0;
-    line-height: 145%;
+    line-height: 145% !important;
 }
 .curated-content p {
     color: #FCFBF2;
@@ -8522,7 +8522,7 @@ div#donate-section-bottom {
     margin-top: -1px;
 }
 .home .template-page.content.av-content-full.alpha.units {
-    padding: 10px 0px !important;
+    padding: 18px 0px !important;
 }
 div#video-section {
     background-size: contain;
