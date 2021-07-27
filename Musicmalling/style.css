@@ -3884,6 +3884,9 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    .page-partnerships .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 100px !important;
+    }
     .page-gallery .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 200px !important;
     }
