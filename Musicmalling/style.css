@@ -6082,7 +6082,7 @@ p.tags_news span a:hover{
     font-family: 'Signika', Arial;
     font-size: 18px;
     font-weight: 500;
-    margin-left: 15px;
+    margin-left: 0px;
 }
 span.rtw_meta{
     position: relative;
