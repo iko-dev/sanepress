@@ -1676,7 +1676,8 @@ Festival page
 .eventText{
     margin-right: 75px;
 }
-.eventText p{
+.eventText a, .eventText p
+{
     font-family: 'Signika', Arial;
     font-weight:300;
     font-size: 16px;	
@@ -6083,6 +6084,7 @@ p.tags_news span a:hover{
     font-size: 18px;
     font-weight: 500;
     margin-left: 0px;
+    text-align: center;
 }
 span.rtw_meta{
     position: relative;
