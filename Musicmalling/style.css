@@ -8396,10 +8396,10 @@ div#video-responsive .container {
     height: 140px !important;
 }
 div#curated-section {
-    background-size: contain !important;
+    background-size: 25% !important;
 }
 div#video-section {
-    background-size: contain;
+    background-size: 50%;
 }
 }
 
@@ -8510,7 +8510,7 @@ div#donate-section-bottom {
     padding: 18px 0px !important;
 }
 div#video-section {
-    background-size: contain;
+    background-size: 50%;
 }	
 	
 }
@@ -8561,7 +8561,7 @@ div#video-section {
         /* background-size: cover !important; */
     }
     div#video-section {
-        background-size: contain;
+        background-size: 50%;
     }
     div#home_date-section .slick-next {
         right: 0px !important;
