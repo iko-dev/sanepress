@@ -3779,7 +3779,7 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
         height: 250px !important;
     }
     .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 250px !important;
+        height: 200px !important;
     }
     .page-venues section {
         padding-left: 50px;
@@ -7014,7 +7014,7 @@ section.av_textblock_section {
     font-family:'Trajan W01 Regular';
     font-size: 20px;
     letter-spacing: 0;
-    line-height: 34px;
+    line-height: 145%;
 }
 .curated-content p {
     color: #FCFBF2;
