@@ -3784,9 +3784,7 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 250px !important;
     }
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 200px !important;
-    }
+  
     .page-venues section {
         padding-left: 50px;
     }
@@ -3906,12 +3904,8 @@ div#donate-section-bottom .container {
     .page-gallery .hr.hr-invisible.avia-builder-el-4.el_before_av_heading.avia-builder-el-first {
         height: 0 !important;
     }
-    .page-board .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
-        height: 150px !important;
-    }
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 150px !important;
-    }
+
+  
     .page-venues section {
         padding-left: 100px;
     }
@@ -8087,9 +8081,7 @@ body.page-news div#news-responsive {
         height: 50px !important;
     }
     .responsive #top .container .av-content-small, .responsive #top #wrap_all .flex_column, .responsive #top #wrap_all .av-flex-cells .no_margin{margin-bottom:5px;}
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 80px !important;
-    }
+ 
     .page-artists .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
         height: 70px !important;
     }
@@ -8285,9 +8277,7 @@ div#home_listen-section .slick-prev,
     .single-video-container, .btn.btn-primary.btn-lg {
         min-height: 200px !important;
     }
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 0px !important;
-    }
+ 
     div#about-responsive .container {
         height: 86px !important;
     }
@@ -8444,9 +8434,7 @@ div#video-section {
     .page-artistic-director div#about-responsive {
         background-size: contain !important;
     }
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 0px !important;
-    }
+
     div#about-responsive {
         /* background-size: cover !important; */
     }
@@ -8553,9 +8541,7 @@ div#video-section {
     .page-artistic-director div#about-responsive {
         background-size: contain !important;
     }
-    .page-artistic-director .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first {
-        height: 0px !important;
-    }
+  
     .responsive #top #wrap_all .av_mobile_menu_tablet .main_menu {
         top: 0px !important;
     }
