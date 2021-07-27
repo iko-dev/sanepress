@@ -7348,7 +7348,7 @@ p.icon-text i {
     content: url(http://musicatmalling.sanepress.com/wp-content/themes/musicmalling/images/home-arrow-blue-right.svg);
 }
 .upcoming-date-row .slick-dots{
-    bottom: -50px;
+    bottom: -33px;
 }
 .upcoming-date-row .slick-dots li button:before{
     background: #FFFFFF; 
