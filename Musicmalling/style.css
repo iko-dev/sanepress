@@ -8420,6 +8420,9 @@ div#video-section {
     div#video-responsive-music .container {
         height: 114px !important;
     }
+    #top.home #wrap_all .av_mobile_menu_tablet .main_menu {
+        top: -20px !important;
+    }
     div#donate-new {
         background-size: contain !important;
     }
