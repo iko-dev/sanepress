@@ -3881,6 +3881,9 @@ div#donate-section-bottom .container {
     div#about-responsive .container {
         height: 206px !important;
     }
+    div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 80px !important;
+    }
     .latest_news_right {
         margin-left: 0% !important;
     }
