@@ -8268,6 +8268,7 @@ div#home_listen-section .slick-prev,
      .news_inner .content {
         margin-top: 0px !important;
     }
+    div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first,
    div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
     height: 80px !important;
 }
