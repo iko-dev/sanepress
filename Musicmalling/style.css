@@ -8044,6 +8044,7 @@ body.page-news div#news-responsive {
 	#donate-section button {
 	margin-top: 10px !important;
 	}
+    div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first,
     div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 100px !important;
     }
