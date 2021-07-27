@@ -1702,8 +1702,8 @@ Festival page
 }
 .ticketButton{
     width: 92px;
-    float:left;
-    margin-top:5px;
+    margin-top: 10px;
+    display: inline-grid;
 }
 .eventsection .ticketButton {
     width: auto;
