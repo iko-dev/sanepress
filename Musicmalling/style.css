@@ -6110,6 +6110,12 @@ p.tags_news span a:hover{
     font-weight: 500;
     margin-left: 0px;
     text-align: center;
+    transition: 0.5s;
+}
+a.buy-tickets:hover {
+    transition: 0.5s;
+    text-decoration: none;
+    background: rgb(37 147 22 / 0.5);
 }
 span.rtw_meta{
     position: relative;
