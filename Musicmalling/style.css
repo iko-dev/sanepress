@@ -8254,7 +8254,9 @@ div#home_listen-section .slick-prev,
     #learning-responsive-4 .container {
         height: 129px !important;
     }
-
+    .home div#date_logo {
+        background-size: 150% !important;
+    }
     .title-wraper h3 {
         font-size: 20px !important;
         text-transform: uppercase;
