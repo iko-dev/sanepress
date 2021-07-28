@@ -8739,7 +8739,8 @@ p.season-tickets p.a {
 .page-learning-zone #av_section_4 .container,
 .page-current-festivals #av_section_3 .container,
 .page-sponsor-us #av_section_3 .container,
-.page-season-ticket #av_section_3 .container
+.page-season-ticket #av_section_3 .container,
+.page-partnerships  #av_section_3 .container
 {
     height: 180px !important;
 }
