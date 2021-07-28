@@ -8755,7 +8755,8 @@ p.season-tickets p.a {
 .page-partnerships  #av_section_3 .container,
 .page-artistic-director #av_section_3 .container,
 .page-board #av_section_3 .container,
-.page-gallery #av_section_3 .container
+.page-gallery #av_section_3 .container,
+.page-contact  #av_section_3 .container
 {
     height: 180px !important;
 }
