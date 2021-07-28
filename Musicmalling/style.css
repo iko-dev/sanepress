@@ -42,6 +42,9 @@ Theme URI: www.kriesi.at/themes/enfold/
 .page-shop .wpshopify-has-rendered{ 
     display:block;
 }
+.modal-content{    border-radius: 0px;
+    box-shadow: none;
+    border: none;}
 /*
 Light 300, Normal 400,Semi-Bold 600,Bold 700
 */
@@ -4796,6 +4799,7 @@ padding-bottom: 0px !important;
 
     .home .h-title {
 padding-bottom: 0;
+margin-top: 70px;
 }
     .home .title-wraper {
 margin: 50px 0px 0px;
