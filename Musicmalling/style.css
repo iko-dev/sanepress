@@ -8737,7 +8737,9 @@ p.season-tickets p.a {
 .page-venues #footer:not(.footer_color) .container,
 .page-artists #footer:not(.footer_color) .container,
 .page-learning-zone #av_section_4 .container,
-.page-current-festivals #av_section_3 .container{
+.page-current-festivals #av_section_3 .container,
+.page-sponsor-us #av_section_3 .container
+{
     height: 180px !important;
 }
 
