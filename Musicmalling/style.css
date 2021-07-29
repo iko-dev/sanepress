@@ -8076,6 +8076,9 @@ body.page-news div#news-responsive {
     div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 100px !important;
     }
+    .page-about-musicmalling div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 80px !important;
+    }
     div#donate-new {
         background-size: contain !important;
     }
@@ -8278,6 +8281,9 @@ div#home_listen-section .slick-prev,
 @media screen and (max-width: 426px){
     #learning-responsive-4 .container {
         height: 129px !important;
+    }
+    .page-about-musicmalling div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 80px !important;
     }
     .home div#date_logo {
         background-size: 150% !important;
@@ -8547,6 +8553,9 @@ div#video-section {
 @media screen and (max-width: 320px){
     #learning-responsive-4 .container {
         height: 97px !important;
+    }
+    .page-about-musicmalling div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
+        height: 80px !important;
     }
     .page-partnerships h2 {
         font-size: 28px !important;
