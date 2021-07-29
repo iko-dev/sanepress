@@ -9045,7 +9045,7 @@ body:not(.home) #avia-menu-0 {
     }
 }
 
-
+.single_cf_para_link{float:left;}
 
 #top #wrap_all .av_header_transparency .main_menu ul:first-child > li.dropdown_ul_available > a span.avia-menu-fx {
     background-color: #FFF !important;
