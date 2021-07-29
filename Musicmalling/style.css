@@ -9112,10 +9112,10 @@ body:not(.home) #avia-menu-0 {
     height: 600px;
     overflow: hidden;
 }
-.bs-example-modal-lg-new .plleft
+/* .bs-example-modal-lg-new .plleft
 	{
 		padding-left: 0px;
-	}
+	} */
 	
     .bs-example-modal-lg-new .p-right
 	{
