@@ -9107,6 +9107,11 @@ body:not(.home) #avia-menu-0 {
     vertical-align: middle;
     width: 100%;
 }
+.bs-example-modal-lg-new .modal-content {
+    box-shadow: 0 5px 15px hsl(0deg 0% 0% / 50%);
+    height: 600px;
+    overflow: hidden;
+}
 .bs-example-modal-lg-new .plleft
 	{
 		padding-left: 0px;
@@ -9144,7 +9149,6 @@ body:not(.home) #avia-menu-0 {
 }
 .bs-example-modal-lg-new .left-img {
     width: 100%;
-    height: 600px;
 }	
 
 .wpadminbartop{
