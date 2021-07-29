@@ -73,15 +73,16 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover{
 button#consent_save {
     margin-right: 10px;
 }
-.html_header_transparency #top .avia-builder-el-0 .container
-{
-    padding-top: 0 !important;
-}
+
 /* ************************for background images ********************* */
 @media (min-width: 1600px) and (max-width: 2560px)  {
 /* div#news-section-top {
     height: 290px !important;
 } */
+.html_header_transparency #top .avia-builder-el-0 .container
+{
+    padding-top: 0 !important;
+}
 div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_full.avia-builder-el-first, div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
     height: 450px !important;
 }
