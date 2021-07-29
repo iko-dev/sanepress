@@ -6471,10 +6471,6 @@ ul.supporter__footer li {
     padding: 0px 15px;
     display: inline-block;
 }
-ul.supporter__footer li a {
-    vertical-align: middle;
-    display: inline-flex;
-}
 span.image-overlay.overlay-type-extern {
     display: none !important;
 }
