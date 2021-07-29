@@ -8294,10 +8294,10 @@ div#home_listen-section .slick-prev,
     .home div#date_logo {
         background-size: 150% !important;
     }
-    .title-wraper h3 {
+    /* .title-wraper h3 {
         font-size: 20px !important;
         text-transform: uppercase;
-    }
+    } */
     .latest_news_right {
         margin-left: 0% !important;
     }
@@ -8570,7 +8570,7 @@ div#video-section {
         height: 0 !important;
     }
     .home div#date_logo {
-        background-size: 170% !important;
+        background-size: 160% !important;
     }
     div#donate-new {
         background-size: contain !important;
