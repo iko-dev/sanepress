@@ -9157,3 +9157,6 @@ body:not(.home) #avia-menu-0 {
 .video_image.box.small-video{
     background-position: center center !important;
 }
+.season-tickets h2 {
+    width: 400px;
+}
