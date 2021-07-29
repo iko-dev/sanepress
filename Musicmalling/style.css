@@ -3777,6 +3777,10 @@ div#home_listen-section .row.listen__slider.slick-initialized.slick-slider {
     div#about-responsive .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first {
         height: 250px !important;
     }
+    .page-about-musicmalling .hr.hr-invisible.avia-builder-el-1.el_before_av_one_fifth.avia-builder-el-first
+    {
+        height: 200px !important;
+    }
     
     .page-partnerships div#about-responsive {
         background-size: contain !important;
