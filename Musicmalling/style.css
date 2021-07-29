@@ -73,6 +73,10 @@ a.avia-button.avia-icon_select-no.avia-size-large:hover{
 button#consent_save {
     margin-right: 10px;
 }
+.html_header_transparency #top .avia-builder-el-0 .container
+{
+    padding-top: 0 !important;
+}
 /* ************************for background images ********************* */
 @media (min-width: 1600px) and (max-width: 2560px)  {
 /* div#news-section-top {
