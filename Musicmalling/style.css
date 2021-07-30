@@ -3553,6 +3553,10 @@ ul#av-burger-menu-ul {
     padding: 1.25em 1.5em;
     border-bottom: 1px solid #ddd;
 }
+.bs-example-modal-lg-new .modal-dialog{
+    width: 100%;
+    max-width: 620px;}
+    
 .modal-dialog {
     width: 100%;
     max-width:900px;
