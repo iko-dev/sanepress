@@ -3556,7 +3556,7 @@ ul#av-burger-menu-ul {
 .bs-example-modal-lg-new .modal-dialog{
     width: 100%;
     max-width: 620px;}
-    
+
 .modal-dialog {
     width: 100%;
     max-width:900px;
@@ -8375,7 +8375,7 @@ div#donate-section-bottom {
     margin-top: -1px;
 }
 div#date_logo .hr {
-    height: 0px !important;
+    height: 50px !important;
 	}
 #footer {
     z-index: 0;
